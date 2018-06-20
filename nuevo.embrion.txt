@@ -54,10 +54,10 @@ de pólvora y batallas y se lo llevó a la boca para masticarlo con ese miedo
 granular que dejan tras de sí las cargas de caballería. Junto a él, toda su
 humanidad encorvada sobre el suelo, el sargento Urbina le cosía una virgencita a su
 sombrero de soyate.
---¿Ahora a quién perjudicaste, Perfecto?
---A la soldadera de mi teniente Medina, que en paz descanse.
---¿Y no te remuerde andar perjudicando así a la soldadera del difunto?
---Masque me remuerda; total, al rato nos van a dejar tan secos como al
+__¿Ahora a quién perjudicaste, Perfecto?
+__A la soldadera de mi teniente Medina, que en paz descanse.
+__¿Y no te remuerde andar perjudicando así a la soldadera del difunto?
+__Masque me remuerda; total, al rato nos van a dejar tan secos como al
 teniente Medina. ¿Qué no oye usted todo ese fuego de artillería? Grande yerro es
 éste de mi general Villa al echarnos a morir así desnudos de cañones frente a
 tanta metralla.
@@ -96,10 +96,10 @@ no siente usted la muy grande mortandad que nos va dejando tan secos como al
 teniente Medina? Bien dispuestas a morir estaban las hordas villistas cuando un
 dorado de la escolta personal del Centauro del Norte llegó gritando ¡alto a la caballería, alto
 a las armas! y le habló así sus palabras al coronel Cervantes:
---Nos cortaron la vía los carrancistas y las tropas se nos están quedando sin
+__Nos cortaron la vía los carrancistas y las tropas se nos están quedando sin
 bastimento; son menester dos voluntarios del regimiento para traer gallinas de las
 rancherías vecinas.
---¡Teniente Flores, sargento Urbina! --gritó el Coronel Cervantes.
+__¡Teniente Flores, sargento Urbina! __gritó el Coronel Cervantes.
 Donaciano Flores y Perfecto Urbina echaron pie a tierra sin soltar el caballo
 de la brida. El coronel dio instrucciones precisas y se separaron, el regimiento por
 un lado en busca de la muerte, los dos soldados por el otro en busca de gallinas.
@@ -165,7 +165,7 @@ ingeniería al carajo y decidió entregar su vida y su talento a su verdadera pa
 el noble arte del fútbol. Mi mamá me edipa y porque me edipa sus primeras
 palabras al salir del hospital son: Hijo, maricón y encima fútbolista, estás jodido.
 
-Joaquín Mortiz, Édgar, Bolaño, Florence, Veracruz: cuando le cuento a Haydée la improbable cadena de vicisitudes que condujeron a la publicación de la novela, su sentido de la realidad pies en la tierra pregunta: 
+Joaquín Mortiz, Édgar, Bolaño, Florence, Veracruz: así le cuento a Haydée la improbable cadena de vicisitudes que condujeron a la publicación de la novela. Su sentido de la realidad planta luego luego los pies en la tierra: 
 __¿cuándo la tienes qué entregar? 
 __principios de julio
 __está a la vuelta
@@ -174,7 +174,7 @@ __¿y si me la vas leyendo camino a Querétaro?
 __órale, la imprimo
 __nomames
 __¿nomames qué?
-__que ya esto no es 1993, ¿los árboles qué culpa tienen de tu novela?: bájala mejor al áyPad
+__que no ya estamos en 1993: los árboles no tienen la culpa de tu novela: léemela en el áypad
 __va 
 
 Declinaba la tarde. El cacarear de unas gallinas entrometió la cresta en el
@@ -183,32 +183,21 @@ rumbo a la ranchería que cacareaba. Con tardía altivez, una leyenda coronaba l
 entrada en azulejos de Talavera: Rancho La Gallina Degollada. Apenas cruzando
 el umbral, un latigazo de aire despegó del suelo y amenazó con volarles los
 sombreros.
---Mucho frío anda haciendo en este rancho.
---Ha de ser tanto abandono --respondió el sargento Urbina sujetando una
-virgencita que le había quedado mal cosida--. Se me anda queriendo volar la
+__Mucho frío anda haciendo en este rancho.
+__Ha de ser tanto abandono __respondió el sargento Urbina sujetando una
+virgencita que le había quedado mal cosida__. Se me anda queriendo volar la
 Fidela.
---A mí se me afigura que ésa no es la Fidela, ésa es la Felipa porque se
+__A mí se me afigura que ésa no es la Fidela, ésa es la Felipa porque se
 parece a las estampas que venden en la catedral de Zacatecas.
---No mi teniente, se anda usted confundiendo. La Felipa era la esposa de
-aquel español de ciudad Juárez, el que coleccionaba yelmos. Con tal de
-conservar sus yelmos me entregó a sus hijas y me cosió él mismo las virgencitas
-al sombrero. Muy grandes ganancias sacamos de la venta de esos yelmos ¿se
-acuerda?
-Pero el general Donaciano Flores ya no lo escuchaba. Tenía en la punta del
-dedo un moco terso, de formas gentiles, y en el hilo transparente que lo unía con
-su nariz veía la sombra del general Villa, Celaya, la hora de la victoria. Algún día
-esos ojos infinitos del general Villa, todo él uniforme dorado, lo verían de frente y
-le entregarían a la niña. Para eso son las revoluciones, mi teniente. Nomás para
+__No mi teniente, se anda usted confundiendo. La Felipa era la viuda de
+aquel español de ciudad Juárez. El que coleccionaba yelmos, ¿se acuerda?
+El teniente ya no lo escuchaba. Tenía en la punta del
+dedo un moco suave, jugoso, de formas gentiles, y en el hilo transparente que lo unía con
+su nariz veía caminar la sombra del general Villa, el fin de la batalla de Celaya, la hora de la victoria. Pronto, quizá mañana, esos ojos color carbón de azabache de Pancho Villa, todo él uniforme dorado, lo verían de frente y
+le entregarían a la niña. Para eso son las revoluciones, mi teniente. Nomás por
 eso hemos luchado.
 El sargento Urbina echó pie a tierra y sujetó el caballo entre las junturas de
 dos tablas. Descorrió las trancas del corral y sacó de sus arreos un par de
-
-7
-
-Embrión Dorado v 1.1, 02/02
-
-Jorge Harmodio Juárez
-
 costales. A punto estuvo de llamar al teniente Flores, que se alejaba
 ensimismado, cuando posó su mirada sobre la quieta figura de una gallina.
 Inmaculada, carnosa, contoneaba sus plumas sobre el brocal de un pozo.
@@ -217,60 +206,45 @@ la gallina encajara a pelo en sus reflexiones, sin cambiar de postura ni de gest
 se sacó la verga lentamente. El cañón de su miembro, largo y pulido, se
 transformó en un dedo de rosa a la luz poniente del sol. Poco a poco el gran dedo
 fue enderezándose en dirección de la gallina. Una orgía de plumas y pescuezos
-revoloteó en los anhelos del sargento Urbina, que cerró los ojos y se saboreó la
-lengua sobre los labios, por eso no vio la sombra de un gatillo ni la boca de una
-Smith & Wesson. Sonó un disparo, seco y diminuto en la inmensidad de la tarde,
-y el ave cayó al suelo.
---Nabor Nolasco, oficial constitucionalista a la caza de gallinas. ¿Hay
-licencia? --dijo un carrancista sin dejar de apuntar. Al sargento Urbina se le
-atragantó el gerundio entre los dedos. Avergonzado, se guardó su flaccidez
+revoloteó en los anhelos de Perfecto, que cerró los ojos y se saboreó la
+lengua sobre los labios antes de abrirlos de nuevo para ver sólo la sombra de un gatillo y la boca de una
+Smith & Wesson. El disparo sonó seco y diminuto en la inmensidad de la tarde. 
+La gallina cayó, también seca, al suelo. 
+__Nabor Nolasco, oficial constitucionalista a la caza de gallinas. ¿Hay
+licencia? __dijo alguien el ataviado con el uniforme carrancista, sin dejar de apuntar. Al sargento Urbina se le
+atragantó el gerundio entre los dedos. Avergonzado, se guardó su flacidez
 humillada en los calzones.
---¿Es usted villista? --enhiesta la cabeza, arrogante el busto, bien puestos
+__¿Es usted villista? __enhiesta la cabeza, arrogante el busto, bien puestos
 los pies sobre la tierra y elegantemente dobladas las piernas entre los arreos de
 campaña, el carrancista preguntaba lo que ya sabía. Nadie los miraba, salvo la
-desolación del rancho y un batallón de gallinas. Las cuarenta y siete virgencitas
-se balancearon, negando con la cabeza.
---Usted es villista, pa qué lo niega. Ora lo voy a tener que acostar de un tiro
-en la barriga, como hago yo con los villistas --el ojo de una Smith & Wesson lo
+desolación del rancho y un batallón de gallinas. Las cuarenta y siete virgencitas respondieron de un balanceo a otro, negando juntas. 
+__Usted es villista, pa qué lo niega. Ora lo voy a tener que acostar de un tiro
+en la barriga, como hago yo con los villistas __el ojo de la Smith & Wesson lo
 miraba inyectado de silencio.
-
-8
-
-Embrión Dorado v 1.1, 02/02
-
-Jorge Harmodio Juárez
-
 Un cañón de artillería reverberó en el horizonte recordándoles que a lo lejos
 se libraba, magnificada, la misma batalla.
---Treinta y siete --murmuró Nolasco apenas entre dientes. Se escuchó otro
-estallido breve. --Treinta y ocho --agregó y sus ojos revolotearon detrás de las
-montañas. --Ya van treinta y ocho. No van a aguantar más de cincuenta -concluyó triunfante.
---Pues entonces vámonos regresando a la batalla y deje usted de apuntarle
-así a mi sargento; mejor allá en la bola averiguamos --sorpresivo, Donaciano
-Flores apoyó la carabina sobre la espalda del carrancista.
---Ta bueno, pues. Pa qué nos matamos de oquis --asintió Nolasco sin dejar
+__Treinta y siete __murmuró Nolasco apenas entre dientes. Se escuchó otro
+estallido breve. __Treinta y ocho __agregó y sus ojos revolotearon detrás de las
+montañas. __Ya van treinta y ocho. No van a aguantar más de cincuenta __concluyó triunfante.
+__Pues entonces vámonos regresando a la batalla y deje usted de apuntarle
+así a mi sargento; mejor allá en la bola averiguamos __apareciendo por sorpresa, Donaciano Flores
+Flores apoyó la carabina sobre la espalda ciega del carrancista.
+__Ta bueno, pues. Pa qué nos matamos de oquis __asintió Nolasco sin dejar
 de apuntar.
---Pues ta bueno --repitió el sargento Urbina sin dejar de ser apuntado.
---Pues órale, muévanle --ordenó el teniente Flores, ya no tan convencido.
+__Pues ta bueno __repitió el sargento Urbina sin dejar de ser apuntado.
+__Pues órale, muévanle __ordenó el teniente Flores, ya no tan convencido.
 Los tres guardaron un solo silencio. Los dos que se podían mirar porque
-estaban frente a frente, se miraron. Un viento frío, en extremo improbable pues
+estaban frente a frente, se miraron. Un viento congelado, en extremo improbable pues
 corría en Celaya el mes de abril, les alborotó los cabellos. Los tres recordaron, no
-sin cierta vergüenza, que algo dentro de ellos se apaciguó al conocer la misión
-que sus respectivos bandos les habían encomendado. Robar gallinas era siempre
-mejor que morir allá, tan de pronto, tan de frente a la metralla.
---¿Pero... y las gallinas? --preguntó Perfecto.
---¿Y si nos las jugamos al juego de la tapia, y que cada quién se lleve las
-que su puntería le procure? --resolvió Nabor Nolasco sin traicionar su yo
-intrínseco de revolucionario. Como asintiendo, la carabina y la Smith & Wesson
+sin cierta vergüenza, que algo dentro de ellos se había apaciguado al conocer la misión
+encomendada por sus respectivos bandos. Robar gallinas siempre era más fácil
+que morir allá, tan arraiz, tan de frente a la metralla.
+__¿Pero... y las gallinas? __preguntó Perfecto.
+__¿Nos las podemos jugar al juego del Festín De Balas, y que cada quién se lleve las
+que su puntería le procure? __resolvió Nabor Nolasco sin traicionar a su macho
+intrínseco revolucionario. Como puestas ya de acuerdo, la carabina y la Smith & Wesson
 dejaron de apuntar al mismo tiempo. Nabor Nolasco y Donaciano Flores
 caminaron hacia el centro del corral. El carrancista fue señalando diversos puntos
-
-9
-
-Embrión Dorado v 1.1, 02/02
-
-Jorge Harmodio Juárez
-
 del corral contiguo. Después describió, moviendo la mano, una serie de
 evoluciones que repitió el villista con ánimo de entenderle. Donaciano dispararía
 sobre las gallinas blancas. Nabor Nolasco sobre las coloradas.
@@ -279,11 +253,9 @@ hacia el campo. El lado del fondo no era una simple cerca de tablas, sino una
 tapia de adobes. Nolasco se acercó al corral de las gallinas. Sus piernas
 formaban un compás hercúleo y destellaban. Se quitó el sombrero, las amenazó
 con la mirada y les habló así sus palabras:
---En cuanto asomen por la puerta, el teniente Flores y yo empezaremos a
+__En cuanto asomen por la puerta, los villistas y yo empezaremos a
 dispararles. Las que lleguen a la tapia y la salten quedan libres. Si alguna no le
-quiere entrar, el sargento Urbina, aquí presente, les meterá un tiro en la barriga.
---¿Entendido? --preguntó Nabor Nolasco. Las gallinas respondieron con un
-revoloteo desordenado.
+quiere entrar, aquí el sargento Urbina les meterá un tiro en la barriga. ¿Entendido? __preguntó Nabor Nolasco. Las gallinas respondieron con un revoloteo desordenado.
 
 De aquí salimos con el embrión en la mano o no salimos, amenazó el judicial
 blandiendo la pistola cuando el Doctor Marzio, con el sudor escarchándole la
@@ -368,7 +340,7 @@ gallinas se acabaron. Un silencio sideral calló sobre los corrales. De la batal
 nada se escuchaba. Corrían esos minutos postreros del ocaso en que se
 confunden los comienzos con los fines. Un ejército de moscas profanó el silencio
 y se ocupó de los intestinos, desparramados por lo ancho de la tierra.
---Vayámonos repartiendo las gallinas antes de que anochezca --propuso
+__Vayámonos repartiendo las gallinas antes de que anochezca __propuso
 Donaciano. Cada quien fue abriendo su costal y levantando del suelo aquello que
 le correspondía. La selección no fue difícil, pues mientras las blancas estaban
 enteras, con apenas un balazo en cualquier sitio, las coloradas eran un amasijo
@@ -377,15 +349,15 @@ De pronto, de algún rincón, saltó una gallina viva. Perfecto corrió hacia el
 con una mano la agarró del pescuezo mientras con la otra luchaba por sacar de
 sus calzones una repentina y violenta erección. Una vez más la Smith & Wesson
 se le adelantó.
---Uno, dos, tres, cuatro --cantó Nolasco pero al contar el cinco ya no hubo
+__Uno, dos, tres, cuatro __cantó Nolasco pero al contar el cinco ya no hubo
 bala que acompañara la cuenta. Con el puro pescuezo en la mano, el sargento
 desenfundó su pistola y encañonó al carrancista. Coléricos, los lamparones del
 mal del pinto se erizaron de luz.
---Cinco --repitió Nolasco y jaló del gatillo pero la garganta de la Smith &
+__Cinco __repitió Nolasco y jaló del gatillo pero la garganta de la Smith &
 Wesson no contestó.
---Sosiega esas armas, Perfecto, que de este hombre no hemos recibido
+__Sosiega esas armas, Perfecto, que de este hombre no hemos recibido
 afrenta alguna, salvo la de portar en su uniforme los galones enemigos.
---Bien que se ganó la inquina de mis rencores, mi teniente. Me ha matado
+__Bien que se ganó la inquina de mis rencores, mi teniente. Me ha matado
 dos gallinitas que ya tenía yo bien apalabradas.
 
 13
@@ -394,13 +366,13 @@ dos gallinitas que ya tenía yo bien apalabradas.
 
 Jorge Harmodio Juárez
 
---No es razón suficiente para quitarle así la vida, pues mientras él tuvo
+__No es razón suficiente para quitarle así la vida, pues mientras él tuvo
 parque respetó bien las nuestras.
---Masque así sea.
---Si tal es tu rencor quédate con sus gallinas, pero respétale la vida. Y usted,
+__Masque así sea.
+__Si tal es tu rencor quédate con sus gallinas, pero respétale la vida. Y usted,
 córrale al monte antes de que aquí mi sargento se arrepienta, que luego tiene sus
 arrebatos —Nabor Nolasco caminó sobre la inmundicia, hacia la tapia de adobes.
---¡Órale, pa que sientas lo que sienten las gallinas! —un primer disparo le
+__¡Órale, pa que sientas lo que sienten las gallinas! —un primer disparo le
 reventó el garbo y lo abalanzó sobre la tapia. Sus pasos hacían plash plash
 confundidos entre tanta víscera. Con cada balazo la noche iba cayendo, como si
 por los balazos se estuviera cayendo. El carrancista saltó la barda y se fue
@@ -505,7 +477,7 @@ vas, le preguntaron? Reina de los profetas, ruega por ella. A buscar a mi abueli
 Reina del santísimo rosario, reina inmortal reina inmortal reina inmortal. Ruega
 por ella.
 
---Puedo meter los goles más tristes esta noche —dijo en acento portugués y
+__Puedo meter los goles más tristes esta noche —dijo en acento portugués y
 el cabrón me mandó un beso. De la porra del Ixmiquilpan surgió un bulto
 esponjado, recién salido del salón de belleza que me miró como si el beso del
 negro lo explicara todo. Sus ojos echaban chispas y reproches y escupitajos de
@@ -517,9 +489,9 @@ esclerótica agria que me gritaban: eres maricón, yo lo sabía.
 
 Jorge Harmodio Juárez
 
---¡Ahí va el agua! --previenen a mi madre y un cometa de meados rompe la
+__¡Ahí va el agua! __previenen a mi madre y un cometa de meados rompe la
 quietud del firmamento y le arruina su peinado.
---A mí no me moja nadie --y sube hasta la grada general bien armada con
+__A mí no me moja nadie __y sube hasta la grada general bien armada con
 una bandera del Ixmiquilpan para vengar los ciento cincuenta pesos que pagó en
 el salón de belleza. Los granaderos la detienen antes de que mate al incauto y se
 la llevan detenida. Mi mamá me vuelve a mirar con la frente perlada de amarillo y
@@ -535,8 +507,8 @@ y si no... ¡chinguen a su maaaaadreeeeee!
 
 Entonces decido que ya basta de intimidar a mis muchachos y los llamo al
 vestidor. Pero suena mi celular. Contesto.
---Ánimo mi cerdito
---¿Ya llegaste mi puerquita, dónde estás?
+__Ánimo mi cerdito
+__¿Ya llegaste mi puerquita, dónde estás?
 Detrás de la portería norte Malenita agita sus brazos enanoides y me manda
 besitos. Una bata del Ixmiquilpan enfunda las cuatro lonchas de tetas y grasa
 apiladas en su barriga. Cubre su cuello con una bufanda del Edimburgh Full
@@ -585,25 +557,25 @@ procede a la ceremonia de los himnos. La gente canta el himno del Atlante con lo
 ojos cerrados, como en trance. Después toca el turno al Ixmiquilpan y de nuevo
 se oye la rechifla. Nos desgarramos el pecho al cantar. Suena mi celular.
 Contesto.
---¿Qué pasó mi puerquita?
---Puerquita tu puta madre. Mira los reflectores.
---En efecto, ahí siguen.
---No te hagas pendejo y dime qué ves.
---Granaderos.
---¿Granaderos? Mmm. ¿Y qué están haciendo?
---Me están apuntando.
---Ahora mira los palcos. ¿Qué ves?
---Más granaderos.
---¿Y qué hacen?
---Chambean.
---¡Síguete haciendo el cagado, cabrón!
---Oiga, si no es mucha molestia, estoy un poco ocupado. Déjeme nomás
+__¿Qué pasó mi puerquita?
+__Puerquita tu puta madre. Mira los reflectores.
+__En efecto, ahí siguen.
+__No te hagas pendejo y dime qué ves.
+__Granaderos.
+__¿Granaderos? Mmm. ¿Y qué están haciendo?
+__Me están apuntando.
+__Ahora mira los palcos. ¿Qué ves?
+__Más granaderos.
+__¿Y qué hacen?
+__Chambean.
+__¡Síguete haciendo el cagado, cabrón!
+__Oiga, si no es mucha molestia, estoy un poco ocupado. Déjeme nomás
 subir a estos muchachos a la primera división y luego me enseña todos los
 granaderos que guste. ¿Le parece? Gracias.
 Cuelgo. Concluye el himno. Los pocos aficionados del Ixmiquilpan ondean
 sus banderas. Suena mi celular. Contesto.
---¿Sí diga?
---¿Qué, muy valiente?
+__¿Sí diga?
+__¿Qué, muy valiente?
 
 20
 
@@ -611,27 +583,27 @@ sus banderas. Suena mi celular. Contesto.
 
 Jorge Harmodio Juárez
 
---¡Qué insistencia! ¿Le puedo ayudar en algo? —el árbitro pita. Inicia el
+__¡Qué insistencia! ¿Le puedo ayudar en algo? —el árbitro pita. Inicia el
 encuentro.
---Te tienes que ayudar tú mismo --el Nonoxinol Vázquez desborda por la
+__Te tienes que ayudar tú mismo __el Nonoxinol Vázquez desborda por la
 banda derecha. Barrida artera de Atlantista Siqueiros. El árbitro no marca.
---¡Cerdo, asesino, tarjeta, tarjeta! --el Tiliche Mendoza se calienta. Atlantista
+__¡Cerdo, asesino, tarjeta, tarjeta! __el Tiliche Mendoza se calienta. Atlantista
 Pellicer lo encara. Conato de bronca.
---Es muy sencillo: quiero que antes del minuto quince del segundo tiempo
+__Es muy sencillo: quiero que antes del minuto quince del segundo tiempo
 vayas abajo por dos goles. Si no, todos esos granaderos que ves junto a los
 reflectores te van a dejar en calidad de coladera. ¿Entendido? —tiro directo, cobra
 el Chocorrol García, el balón se estrella en el travesaño, el Chinchampú López
 contrarremata de cabeza pero los reflejos felinos de Atlantista Vasconcelos salvan
 la meta.
---¡Cerca la bala, ese es mi Chinchampú, mucho por ese cabezazo! —
+__¡Cerca la bala, ese es mi Chinchampú, mucho por ese cabezazo! —
 Atlantista Reyes elude a dos defensas y centra templado, Atlantista Rivera remata
 de palomita. La bola pasa rozando el palo.
---¿Te haces pendejo, verdad? A ver compadre, échele bala aquí al director
+__¿Te haces pendejo, verdad? A ver compadre, échele bala aquí al director
 técnico a ver si así lo convencemos —el Norsuiza Jiménez filtra un balón de oro
 para el Alquitrán Martínez, que peina de cabeza. Epaminondas Goncalvez
 Conselheiro remata de tijera y vence a Atlantista Vasconcelos. El balón está al
 fondo de las redes.
---¡Goooooooooooooool¡ Ya-nos-los-chin-ga-mos, ya-nos-los-chin-ga-mos.
+__¡Goooooooooooooool¡ Ya-nos-los-chin-ga-mos, ya-nos-los-chin-ga-mos.
 ¡Ése es mi negro, arriba Ixmiquilpan, arriba, no me descuide esa marca, no se me
 confíe, vamos!
 Un silencio glacial congeló la garganta del estadio. El bullicio corría por
@@ -643,27 +615,27 @@ cuenta de la minúscula porra del Ixmiquilpan. Suena mi celular. Contesto.
 
 Jorge Harmodio Juárez
 
---¿Sí diga? --el Ampollas Sandoval se barre pero, elusivo, Atlantista Orozco
+__¿Sí diga? __el Ampollas Sandoval se barre pero, elusivo, Atlantista Orozco
 se le escapa por la derecha.
---¡Felicidades mi cerdito! --Atlantista Orozco dispara desviado.
---¿Empezamos bien, verdad? --despeje de meta del Moco López.
---Sí, pero estoy viendo al Ampollas Sandoval muy suelto en la contención.
+__¡Felicidades mi cerdito! __Atlantista Orozco dispara desviado.
+__¿Empezamos bien, verdad? __despeje de meta del Moco López.
+__Sí, pero estoy viendo al Ampollas Sandoval muy suelto en la contención.
 Estaba pensando bajarlo a la central y meter al Buches Galarraga, que es más
-duro y tiene mejor salida hacia el frente --Atlantista Gorostiza se adorna, baja de
+duro y tiene mejor salida hacia el frente __Atlantista Gorostiza se adorna, baja de
 pecho y sirve de taquito. La multitud quisiera corear un ole.
---Tienes razón mi puerquita. ¡Buches, a calentar! --servicio largo para
+__Tienes razón mi puerquita. ¡Buches, a calentar! __servicio largo para
 Atlantista Echeverría. El árbitro marca fuera de lugar. Protesta, manotea, escupe,
 el nazareno le muestra la amarilla.
---Bueno, ya no te distraigo más, mi cerdito. Besitos --Atlantista
+__Bueno, ya no te distraigo más, mi cerdito. Besitos __Atlantista
 Ibargüengoitia se hace pendejo con el balón.
 Cuelgo. Me dispongo a tomar la pizarra de estrategia cuando un balazo
 aprovecho el barullo y revienta en la banca sin provocar desgracias. Me quejo con
 el Inspector Autoridad. Suena mi celular. Contesto.
---¿Bueno?
---¿Y bien?
---¿Cree usted que me van a rendir sus tretas intimidatorias? Nos vamos a
+__¿Bueno?
+__¿Y bien?
+__¿Cree usted que me van a rendir sus tretas intimidatorias? Nos vamos a
 morir en la raya. Sus balas no me intimidan.
---La decisión es tuya. Quiero dos goles antes del minuto quince del segundo
+__La decisión es tuya. Quiero dos goles antes del minuto quince del segundo
 tiempo. Si no... —el Bananasplit Rebolledo pelea un balón en la media cancha.
 Indeciso, me dirijo hacia la banda para hablar con el Moco López, nuestro
 arquero. ¿Como se lo diría? Después de todos las pláticas motivacionales ¿cómo
@@ -677,12 +649,12 @@ Jorge Harmodio Juárez
 
 amenazando. Doy dos pasos hacia la portería, me arrepiento, regreso a la banca.
 En eso andaba cuando volvió a sonar el celular.
---¿Bueno?
---Tiene una llamada de larga distancia. ¿Acepta?
---¿Quién me llama y de dónde?
---Le llama el señor Francisco I. Madero, del más allá.
---¿Quién?
---Está bien, lo comunico --marrullero, Atlantista Echeverría le escupe al
+__¿Bueno?
+__Tiene una llamada de larga distancia. ¿Acepta?
+__¿Quién me llama y de dónde?
+__Le llama el señor Francisco I. Madero, del más allá.
+__¿Quién?
+__Está bien, lo comunico __marrullero, Atlantista Echeverría le escupe al
 Kingkong Manríquez. Desde la porra del Atlante retumba un tambor.
 
 La luna se hunde en el año de 1915 y se detiene sobre Celaya, en una
@@ -743,20 +715,20 @@ tiene a todos muy nerviosos, éstos son un par de guantes quirúrgicos, éste es
 tapabocas, aquel un falso diploma, ésta de acá una bata, y ése un reloj de
 cirujano en el que se te está acabando el tiempo.
 
---Dibújeme un cordero.
---¿Qué?
---Dibújeme un cordero.
---¿Un cordero? ¡No mames!
---Por favor, dibújeme un cordero.
---¡De qué se trata! ¿Me quieren volver loco?
---No se exalte, señor Director Técnico, por favor no se exalte. Habla
+__Dibújeme un cordero.
+__¿Qué?
+__Dibújeme un cordero.
+__¿Un cordero? ¡No mames!
+__Por favor, dibújeme un cordero.
+__¡De qué se trata! ¿Me quieren volver loco?
+__No se exalte, señor Director Técnico, por favor no se exalte. Habla
 Francisco I. Madero, y lo único que...
---Yo sé quién es usted. El pinche payaso que nos disparó hace rato.
---No, señor Director Técnico, se equivoca. Si me diera la oportunidad de
+__Yo sé quién es usted. El pinche payaso que nos disparó hace rato.
+__No, señor Director Técnico, se equivoca. Si me diera la oportunidad de
 explicarle.
---Ni madre. Usted quiere que nos dejemos meter dos goles, pero está
+__Ni madre. Usted quiere que nos dejemos meter dos goles, pero está
 pendejo.
---Si sólo me diera la oportunidad de explicarle. Ando recolectando corderos
+__Si sólo me diera la oportunidad de explicarle. Ando recolectando corderos
 para...
 
 25
@@ -765,30 +737,30 @@ para...
 
 Jorge Harmodio Juárez
 
---Usted se me va a ir a la chingada con todo y sus corderos.
---No, no, por favor no me...
---Adiós --el árbitro pita el final del primer tiempo.
+__Usted se me va a ir a la chingada con todo y sus corderos.
+__No, no, por favor no me...
+__Adiós __el árbitro pita el final del primer tiempo.
 
 Les guste o no les guste
 les cuadre o no les cuadre
 el Atlante es su padre
 y si no...
 
---¿Bueno?
---Quince minutos.
---¿Qué?
---Que faltan quince minutos.
---¿Para qué?
---Para que chingues a tu madre. Te dije antes del quince.
---Pero...
---Nada de peros. Aquí te voy a comunicar con una sorpresita que se trajo el
+__¿Bueno?
+__Quince minutos.
+__¿Qué?
+__Que faltan quince minutos.
+__¿Para qué?
+__Para que chingues a tu madre. Te dije antes del quince.
+__Pero...
+__Nada de peros. Aquí te voy a comunicar con una sorpresita que se trajo el
 comandante de allá abajo, de los separos, a ver si así cooperas. Te la paso.
---¿Bueno?
---Pero el día en que me muera te vas a acordar, Eugenio Adalberto. Tanto
+__¿Bueno?
+__Pero el día en que me muera te vas a acordar, Eugenio Adalberto. Tanto
 que te dimos, tanto que invertimos en tu educación para que no fueras un paria ni
 un mafioso y mira nada más dónde tienes a tu pobre madre. ¿Qué no te das
 cuenta? Si tu padre levantara la cabeza...
---¿Mamá?
+__¿Mamá?
 
 26
 
@@ -796,22 +768,22 @@ cuenta? Si tu padre levantara la cabeza...
 
 Jorge Harmodio Juárez
 
---No Eugenio Adalberto, a los hijos no se les quiere nada más porque son
+__No Eugenio Adalberto, a los hijos no se les quiere nada más porque son
 hijos. Yo te lo advertí, evita las malas compañías, pero nunca me hiciste caso, tú
 crees que lo sabes todo, crees que tu madre es una ignorante. Es mi culpa, fui
 demasiado manga ancha, demasiado consentidora. Mira a Mauricito, a él sus
 papás no le pagaron buenos colegios ni juguetes importados ni clases de karate.
 Míralo ahora, bien casado, con una buena mujer, un trabajo decente, una familia.
---Pero mamá...
---A buena hora te preocupas, Eugenio Adalberto, a buena hora. ¿Dónde
+__Pero mamá...
+__A buena hora te preocupas, Eugenio Adalberto, a buena hora. ¿Dónde
 estabas cuando uno de esos malvivientes me bañó de orines? ¿Y cuando me
 detuvieron por irle a dar su merecido? ¿Y cuando estos chimpancés me trajeron
 por la fuerza y me obligaron a hablar contigo? Porque entérate, Eugenio
 Adalberto, que no te necesito. Si crees que con tus rebeldías de adolescente me
 haces daño estás equivocado, sólo te dañas a ti mismo. Yo sé que estoy sola en
 el mundo. Yo sé que desde la muerte tu padre me quedé sin nadie que...
---¿Bueno? ¿Mamá?
---¡Pero qué pinche vieja más necia! Más te vale que caigan rápido esos
+__¿Bueno? ¿Mamá?
+__¡Pero qué pinche vieja más necia! Más te vale que caigan rápido esos
 goles porque si no la vamos a callar a culatazos.
 
 Les guste o no les guste, les cuadre o no les cuadre, el general Álvaro
@@ -1073,11 +1045,11 @@ cuando lo arregles. Solo en un desierto de ronquidos, me quité el abrigo, encen
 la computadora y puse manos a la obra. Eran las dos con cinco de la madrugada.
 Pasaron varias horas. Embebido a la caza del problema, escuché una voz
 que me decía:
---Por favor, dibújeme un cordero.
---¿Qué?
---Por favor, dibújeme un cordero.
---No, vuélvete a dormir, todavía no lo arreglo.
---Por favor, dibújeme un cordero —insistía la voz.
+__Por favor, dibújeme un cordero.
+__¿Qué?
+__Por favor, dibújeme un cordero.
+__No, vuélvete a dormir, todavía no lo arreglo.
+__Por favor, dibújeme un cordero —insistía la voz.
 Me levanté. Busqué al solicitante del cordero, pero tanto el operador como
 los vigilantes seguían dormidos. Cuando regresé a mi computadora todas mis
 aplicaciones habían abortado. Desde una ventana, en una esquina del monitor, un
@@ -1145,7 +1117,7 @@ Llegó a la Hacienda de las Mercedes una mañana de domingo. Los
 Arizmendi dormían de espaldas. Llegó y se le entrometió en los sueños, le calentó
 el pecho, bajó por la curva de su vientre y se le estacionó en la entrepierna
 despertando esos resortes que por tanto tiempo habían dormido.
---Mujer, mujer. Despierta, mujer. ¡Mira!
+__Mujer, mujer. Despierta, mujer. ¡Mira!
 Lo miraron. Luego se miraron y enmudecieron. Un gallo cantó y su canto
 atravesó el cristal de la ventana. La Hacienda. Las Mercedes. Las niñas. Con la
 torpeza de un recién casado, el doctor Arizmendi despojó a doña Mercedes de las
@@ -1167,20 +1139,20 @@ hijo de la cocinera, la vaca la más caprichosa del establo. El niño tiene dos 
 la vaca detesta que la ordeñen. Nadie la pudo ordeñar nunca hasta el día en que
 llegó el niño y con su inexperiencia hizo de Federica la mejor de las vacas
 lecheras.
---Buenos días patrón.
---Buenos días, hijo. ¿Cómo va la ordeña?
---Bien patrón.
---Mira nada más qué tetas tiene esta Federica.
---Sí patrón.
---A ver, déjame intentarlo. ¡Ah, malvada vaca, no hay dios que te ordeñe! Ni
+__Buenos días patrón.
+__Buenos días, hijo. ¿Cómo va la ordeña?
+__Bien patrón.
+__Mira nada más qué tetas tiene esta Federica.
+__Sí patrón.
+__A ver, déjame intentarlo. ¡Ah, malvada vaca, no hay dios que te ordeñe! Ni
 una gota. Explícame. ¿Cómo lo haces?
---No se patrón, igual que usted.
---Primero la coges de aquí ¿no?
---Sí patrón.
---Luego tiras así ¿no?
---Sí patrón.
---Una y dos, una y dos.
---Sí patrón.
+__No se patrón, igual que usted.
+__Primero la coges de aquí ¿no?
+__Sí patrón.
+__Luego tiras así ¿no?
+__Sí patrón.
+__Una y dos, una y dos.
+__Sí patrón.
 
 39
 
@@ -1188,12 +1160,12 @@ una gota. Explícame. ¿Cómo lo haces?
 
 Jorge Harmodio Juárez
 
---¿Entonces por qué no...? ¡Ah, malvada Federica! —el patrón estaba esa
+__¿Entonces por qué no...? ¡Ah, malvada Federica! —el patrón estaba esa
 mañana de excelente humor.
---Donaciano, hijo, ¿por qué no vas a ayudarle a tu madre en la cocina?
+__Donaciano, hijo, ¿por qué no vas a ayudarle a tu madre en la cocina?
 Quiero ver si esta vaca entiende de una vez por todas quién manda en esta
 hacienda ¿vale?
---Sí patrón.
+__Sí patrón.
 El niño se da la vuelta y sus orejas, todavía dos, salen del establo. El patrón
 le mete las manos a Federica y siente de nuevo eso que lo inunda de rosas y le
 calienta el pecho, baja por la curva de su vientre y le despierta articulaciones
@@ -1246,7 +1218,7 @@ Jorge Harmodio Juárez
 
 una vez pronunciado el nombre. Ande Doña Mercedes, llame a su esposo, mírelo
 con odio, tosa un poco y deje que las palabras se escapen de su agonía:
---Marido. No... no... no la nombres Mercedes. Llámala mal... Mal... Malena.
+__Marido. No... no... no la nombres Mercedes. Llámala mal... Mal... Malena.
 Ya está, ya pronunció el nombre, ya trajo al mundo a Malenita. Que corra la
 novela. Que siga la historia. Que cierre los ojos y se muera de un suspiro, como
 en las películas. Se va pero deja la venganza porque ese nombre esconde un
@@ -1282,10 +1254,10 @@ como una flor de mármol entre los nogales. Ahí se refugiaba Arizmendi para
 rumiar en calma las decisiones importantes. Ahí lo enfrento la cocinera vestida de
 ocaso en el mejor de sus delantales, con Juanita en brazos y sin trenza que
 contuviera las ilusiones de sus cabellos:
---¿Cuándo vamos a bautizar a nuestra hija?
+__¿Cuándo vamos a bautizar a nuestra hija?
 Rojo de ira, con aquel acento peninsular que acostumbraba cuando era rico,
 Arizmendi le entregó dos fajos de dinero.
---Esto es para que bautice usted a su hija y esto para que le traiga flores a
+__Esto es para que bautice usted a su hija y esto para que le traiga flores a
 mi mujer todos los días, a ver si así aprende a respetar su memoria.
 
 Éste es el cuento de las tres infancias. Érase una vez tres infancias en una
@@ -1375,15 +1347,15 @@ Al recibir la noticia de la rebelión el presidente sale del Castillo de
 Chapultepec escoltado por los cadetes del Colegio Militar y la policía montada con
 dirección al centro de la ciudad. En el trayecto del Paseo de la Reforma a la Av.
 Juárez se le apareció un zorro.
---Buenos días --dijo el zorro.
---Buenos días --respondió el presidente Madero educadamente--. ¿Quién
+__Buenos días __dijo el zorro.
+__Buenos días __respondió el presidente Madero educadamente__. ¿Quién
 eres tú?
---Yo soy un zorro --dijo el zorro.
+__Yo soy un zorro __dijo el zorro.
 En la convergencia de San Juan de Letrán y Av. Juárez se suscitó un nutrido
 tiroteo entre un núcleo rebelde y los cadetes. El presidente fue puesto a salvo en
 la fotografía Daguerre.
---Ven y ayúdame --dijo el presidente--. Estoy tan triste.
---No te puedo ayudar. No estoy domesticado --dijo el zorro pero era tan
+__Ven y ayúdame __dijo el presidente__. Estoy tan triste.
+__No te puedo ayudar. No estoy domesticado __dijo el zorro pero era tan
 fuerte el tiroteo o tan grande su tristeza que el presidente lo nombró jefe militar de
 la plaza. Dios creó a la mujer un domingo 9 de febrero de 1913 en un establo, a la
 hora de la ordeña. Como ya va siendo tradición en las creaciones divinas, le tomó
@@ -1944,24 +1916,24 @@ Jorge Harmodio Juárez
 
 Capítulo Tercero
 
---Pero si andaba soñando con usted, mi general.
---¿Y qué soñaba?
---Que habíamos tomado Celaya, que era a usted al que le habían volado la
+__Pero si andaba soñando con usted, mi general.
+__¿Y qué soñaba?
+__Que habíamos tomado Celaya, que era a usted al que le habían volado la
 mano y Perfecto me decía mira Donaciano ya acabó la revolución, ahí está la
 niña. Para celebrar quemábamos todas las haciendas de Celaya y Perfecto
 cargaba la mano que le habían volado a usted en un morralito porque nos servía
 para encender haciendas.
---¿Mi mano?
---Sí mi general. Sus uñas eran negras como cabezas de cerillo y las
+__¿Mi mano?
+__Sí mi general. Sus uñas eran negras como cabezas de cerillo y las
 usábamos para encender las haciendas.
---¿Y luego?
---Luego nada. Ahí se acaba.
---¿Y no le da vergüenza?
---Pues sí mi general, de darme sí me da. Tanta mortandad tanto hombre
+__¿Y luego?
+__Luego nada. Ahí se acaba.
+__¿Y no le da vergüenza?
+__Pues sí mi general, de darme sí me da. Tanta mortandad tanto hombre
 ensangrentado, no crea, a veces reflexiono yo entre mí si no sería mejor agarrar
 un caballo y un sarape y meterme al monte a buscarla por mi cuenta.
---¿A quién?
---¿Pos cómo a quién, a quién va a ser? ¡A la Malenita! Pero luego pienso: Si
+__¿A quién?
+__¿Pos cómo a quién, a quién va a ser? ¡A la Malenita! Pero luego pienso: Si
 tantos hombres revolucionarios se han ensangrentado con el único propósito de
 que yo encuentre a la que me fue injustamente arrebatada ha de ser porque esta
 Revolución es un acto de amor que haría yo mal en frustrar con mis flaquezas. O
@@ -1979,15 +1951,15 @@ pero ha de saber usted que allá en Celaya los negros me trozaron un trozo y
 figúrese que desde entonces cada que me muero me agarran unos dolores
 infames de cabeza, vómitos y malestar por todo el cuerpo. Y no nada más eso,
 también el ajetreo de enterrar al negro y andar dando explicaciones.
---Dígame soldado ¿a usted quién le dio el grado de teniente?
---Usted mi general.
---¿Seguro?
---Sí mi general. En Ojinaga.
---¿Y qué hace usted de guardia?
---Cubro al sargento Urbina P. que anda resolviéndose un asunto.
---Bueno, pues ahí le platica a su sargento lo que le pasa a los que se
+__Dígame soldado ¿a usted quién le dio el grado de teniente?
+__Usted mi general.
+__¿Seguro?
+__Sí mi general. En Ojinaga.
+__¿Y qué hace usted de guardia?
+__Cubro al sargento Urbina P. que anda resolviéndose un asunto.
+__Bueno, pues ahí le platica a su sargento lo que le pasa a los que se
 duermen en vez de hacer la guardia.
---Sí mi general, yo le platico.
+__Sí mi general, yo le platico.
 Villa bostezó un largo bostezo, sacó su pistola y con total tranquilidad, casi
 amistosamente, le metió tres balazos en el pecho, apagando de ese modo la
 verborrea de Donaciano. Del catálogo de negros muertos, o páginas negras en la
@@ -2020,11 +1992,11 @@ un mensaje: "Para que veas lo que les pasa a los que se andan durmiendo en vez
 de hacer la guardia Perfecto". Los datos personales fueron extraídos de un listón
 blanco que el finado llevaba atado a la muñeca.
 
---No había en el horizonte, y no se olvide de ponerle la hache al horizonte,
+__No había en el horizonte, y no se olvide de ponerle la hache al horizonte,
 que el otro día se le olvidó y me hizo pasar vergüenzas. No había en el horizonte,
 le decía, grupúsculos de izquierda con acento en la u que desvirtuaran la lucha
 obrera.
---—Permítame ¿Bueno? Sí, un momento. Tengo a Iván Sobarzo por el
+__—Permítame ¿Bueno? Sí, un momento. Tengo a Iván Sobarzo por el
 directo. ¿Se lo comunico?
 
 67
@@ -2033,12 +2005,12 @@ directo. ¿Se lo comunico?
 
 Jorge Harmodio Juárez
 
---Sí, gracias. ¿Bueno? Sí, ajá, sí... ¿seguro? Está bien, espéreme ahí, bajo
+__Sí, gracias. ¿Bueno? Sí, ajá, sí... ¿seguro? Está bien, espéreme ahí, bajo
 enseguida. Nachita, me tengo que ir. Termine la carta y envíela con un
 mensajero. Tiene que llegar antes de las cuatro. Escriba que para presionar a los
 huelguistas el sindicato pone a su disposición ciento setenta esquiroles listos para
 empezar mañana si él así lo dispone. Hasta mañana.
---Hasta mañana don Dona.
+__Hasta mañana don Dona.
 El líder sindical encendió un puro y caminó gravemente hasta el elevador. En
 el sótano lo esperaban tres camionetas sin placas, los vidrios polarizados y
 algunos judiciales bien armados dentro de ellas. Iván Sobarzo saludó apenas ante
@@ -2054,7 +2026,7 @@ camionetas lo saben y echan a llorar las sirenas. Con dificultad se abre un carr
 El líder se esconde de los retrovisores en el ángulo exacto en donde nadie lo mira
 y se mete el dedo en la nariz justo cuando Sobarzo voltea para decirle algo que al
 final no dice, arrepentido porque sabe cuánto detesta el líder que lo sorprendan.
---Número cuarenta y siete, donde los globos —musita Sobarzo por el
+__Número cuarenta y siete, donde los globos —musita Sobarzo por el
 transmisor. Los judiciales bajan con el armamento por lo alto, como contagiados
 por la impaciencia de su jefe, que saca otro puro, lo enciende y echa una
 bocanada a la derecha para disimular con humo el hoyo ciego de su oreja.
@@ -2138,20 +2110,20 @@ que ya me pasó de largo.
 Entre cuatro judiciales levantan el ataúd. Otros cuatro encañonan a los
 deudos, aún estupefactos. Iván Sobarzo saca la chequera, firma un cheque y lo
 deja en la mesa de centro.
---Espero que este cheque cubra el monto de los daños morales, así como el
+__Espero que este cheque cubra el monto de los daños morales, así como el
 precio del cuerpo. Les ruego me disculpen, pero es un asunto de Estado.
 Ni fiesta ni funeral. Apenas el perímetro de un hueco demarcado por cirios.
 Una niña con diarrea sale del baño, se pone el abrigo, se echa un rollo de
 papel en el bolsillo.
---¿A dónde vas?
---A buscar a mi abuelita.
+__¿A dónde vas?
+__A buscar a mi abuelita.
 
---¿Comandante? Le llamo de recepción. Tengo aquí a una menor que quiere
+__¿Comandante? Le llamo de recepción. Tengo aquí a una menor que quiere
 entrar al estudio. Dice que tiene algo importante que decirle al Tío Gamboín.
---Dígale que no esté chingando.
---Ya se lo dije mi comandante pero la niña no se va y a mí me da pena usar
+__Dígale que no esté chingando.
+__Ya se lo dije mi comandante pero la niña no se va y a mí me da pena usar
 la violencia.
---Salga y busque a los papás y dígales que no estén chingando.
+__Salga y busque a los papás y dígales que no estén chingando.
 
 71
 
@@ -2159,29 +2131,29 @@ la violencia.
 
 Jorge Harmodio Juárez
 
---Ya los busqué mi comandante pero no encontré a nadie, la menor llegó
+__Ya los busqué mi comandante pero no encontré a nadie, la menor llegó
 sola.
---¡Qué la chingada!
---Además viene con una diarrea espantosa mi comandante. Cada que entra
+__¡Qué la chingada!
+__Además viene con una diarrea espantosa mi comandante. Cada que entra
 al baño me llama señor policía señor policía y me pide que la limpie y a mí me da
 como pena mi comandante.
---Me lleva la chingada. Voy para allá. --El comandante fue para allá.
---¿Cómo te llamas?
---Malenita Marzio Nolasco para servirle.
---¿Y dónde están tus papás?
---En mi casa.
---¿Y tú qué haces aquí?
---Tengo que decirle una cosa al Tío Gamboín.
---El Tío Gamboín está ocupado en su programa. No te puede atender.
---Me espero a los comerciales.
---Los comerciales son muy cortos y al Tío Gamboín no le da tiempo de venir
+__Me lleva la chingada. Voy para allá. __El comandante fue para allá.
+__¿Cómo te llamas?
+__Malenita Marzio Nolasco para servirle.
+__¿Y dónde están tus papás?
+__En mi casa.
+__¿Y tú qué haces aquí?
+__Tengo que decirle una cosa al Tío Gamboín.
+__El Tío Gamboín está ocupado en su programa. No te puede atender.
+__Me espero a los comerciales.
+__Los comerciales son muy cortos y al Tío Gamboín no le da tiempo de venir
 a hablar contigo y regresar al estudio. Ya está viejito.
---Me espero a que termine su programa --me lleva la chingada, pensó el
-comandante. --¿Sería tan amable de permitirme usar su baño, señor?
---Pásale, pues --el comandante la dejo pasar. --¿Ora qué hacemos?
---No sé mi comandante.
---Señor policía señor policía ¿me limpia?
---Le toca mi comandante.
+__Me espero a que termine su programa __me lleva la chingada, pensó el
+comandante. __¿Sería tan amable de permitirme usar su baño, señor?
+__Pásale, pues __el comandante la dejo pasar. __¿Ora qué hacemos?
+__No sé mi comandante.
+__Señor policía señor policía ¿me limpia?
+__Le toca mi comandante.
 
 72
 
@@ -2189,28 +2161,28 @@ comandante. --¿Sería tan amable de permitirme usar su baño, señor?
 
 Jorge Harmodio Juárez
 
---Ni madres, usted ya tiene experiencia. Además, yo soy el comandante. -Me lleva la chingada, penso el sargento pero no lo dijo porque no estaba
+__Ni madres, usted ya tiene experiencia. Además, yo soy el comandante. -Me lleva la chingada, penso el sargento pero no lo dijo porque no estaba
 autorizado a usar palabras altisonantes delante de sus superiores.
---Gracias señor policía.
---Se nos va a deshidratar mi comandante. Con esta ya van tres veces que la
+__Gracias señor policía.
+__Se nos va a deshidratar mi comandante. Con esta ya van tres veces que la
 menor defeca. ¿Qué hacer?
---A ver niña, voy a preguntarle al Tío Gamboín si puede hablar contigo.
-Espérame tantito. --Se va ir a hacer pendejo, penso el sargento pero no lo dijo. -Dice el tío que me digas qué se te ofrece.
+__A ver niña, voy a preguntarle al Tío Gamboín si puede hablar contigo.
+Espérame tantito. __Se va ir a hacer pendejo, penso el sargento pero no lo dijo. -Dice el tío que me digas qué se te ofrece.
 Malenita les contó lo que se le ofrecía.
---¡Ay cabrón! Pérame, deja le marco al flor manayer.
+__¡Ay cabrón! Pérame, deja le marco al flor manayer.
 
---¿Higareda? Pásame al flor manayer.
---Está ocupado con el programa del Tío.
---Es una emergencia. Pásamelo.
---Espérame.
---¿Sí?
---Habla el comandante González, de seguridad. Tengo aquí en recepción a
+__¿Higareda? Pásame al flor manayer.
+__Está ocupado con el programa del Tío.
+__Es una emergencia. Pásamelo.
+__Espérame.
+__¿Sí?
+__Habla el comandante González, de seguridad. Tengo aquí en recepción a
 una niña que acaba de cumplir siete años y quiere ver al Tío Gamboín porque se
 le murió su abuelita y la anda buscando.
---¿Qué?
---Que tengo aquí en recepción a una niña que acaba de cumplir siete años y
+__¿Qué?
+__Que tengo aquí en recepción a una niña que acaba de cumplir siete años y
 quiere ver al Tío Gamboín porque se le murió su abuelita y la anda buscando.
---No le entiendo, oficial.
+__No le entiendo, oficial.
 
 73
 
@@ -2218,12 +2190,12 @@ quiere ver al Tío Gamboín porque se le murió su abuelita y la anda buscando.
 
 Jorge Harmodio Juárez
 
---Mire licenciado, lo que sucede es que yo tampoco entiendo nada pero aquí
+__Mire licenciado, lo que sucede es que yo tampoco entiendo nada pero aquí
 mi sargento Gallardo me anotó lo que tengo que decir en un papelito, así que
 mejor se lo comunico.
---Buenas tardes licenciado. Aquí el sargento Gallardo.
---Sargento. ¿Me puede explicar qué pasa?
---Sí licenciado. Sucede que aproximadamente a las seis de la tarde del día
+__Buenas tardes licenciado. Aquí el sargento Gallardo.
+__Sargento. ¿Me puede explicar qué pasa?
+__Sí licenciado. Sucede que aproximadamente a las seis de la tarde del día
 de hoy se presentó una menor en nuestras instalaciones solicitando un permiso
 para acceder a nuestros estudios y hablar con el Tío Gamboín. Este elemento le
 explicó que eso no era posible, pero ante la insistencia de la menor este elemento
@@ -2239,9 +2211,9 @@ facultades, afirmó que la abuela, que en paz descanse, apagó ciertas velas
 huyó del lugar de los hechos.
 d) La menor solicita la colaboración del Tío Gamboín y su vasto auditorio
 para la localización de su abuelita (o sus restos).
---¡Ay cabrón! Espéreme sargento, déjeme preguntarle al Tío.
+__¡Ay cabrón! Espéreme sargento, déjeme preguntarle al Tío.
 El sargento esperó.
---¿Sargento? El Tío pregunta que de quién era el cumpleaños, si de la
+__¿Sargento? El Tío pregunta que de quién era el cumpleaños, si de la
 abuela o de la niña.
 
 74
@@ -2250,24 +2222,24 @@ abuela o de la niña.
 
 Jorge Harmodio Juárez
 
---De la menor licenciado.
---De-la-me-nor. Permítame. No vaya a colgar.
+__De la menor licenciado.
+__De-la-me-nor. Permítame. No vaya a colgar.
 El sargento no colgó.
---O sea que la abuelita se murió en plena fiesta de-la-nie-ta.
---Presumiblemente licenciado.
---En-ple-na-fies-ta. No cuelgue, vuelvo en seguida.
+__O sea que la abuelita se murió en plena fiesta de-la-nie-ta.
+__Presumiblemente licenciado.
+__En-ple-na-fies-ta. No cuelgue, vuelvo en seguida.
 El licenciado volvió en seguida.
---¿Sargento?
---Sí licenciado.
---Dice el Tío que no estemos chingando, que la llevemos a Canal 5 al
+__¿Sargento?
+__Sí licenciado.
+__Dice el Tío que no estemos chingando, que la llevemos a Canal 5 al
 servicio de la comunidad y que pobre de aquel que diga una palabra sobre el
 asunto de la abuela, que nada más se trata de localizar el manicomio de donde se
 escapó la niña. ¿Entendido?
---Sí Licenciado.
---Bueno.
---Licenciado, una última pregunta.
---¿Sí?
---¿No tendrá usted algún medicamento para la diarrea?
+__Sí Licenciado.
+__Bueno.
+__Licenciado, una última pregunta.
+__¿Sí?
+__¿No tendrá usted algún medicamento para la diarrea?
 
 Canal 5 al servicio de la comunidad pide su colaboración para la localización
 de los siguientes niños perdidos:
@@ -2294,12 +2266,12 @@ los estudios de canal 5. Por su atención gracias.
 
 Una hilera de capuchas blancas arrastra los pasos entre las quebradas de la
 sierra. Silba el viento. Las oraciones se interrumpen. Circula un rumor:
---La madre María no puede más.
---La madre María ya no puede.
---La madre María ya no.
+__La madre María no puede más.
+__La madre María ya no puede.
+__La madre María ya no.
 La madre María se sienta sobre una piedra. El rumor alcanza la vanguardia.
 La procesión se detiene.
---Descansemos un poco, pero sólo un poco porque cae la noche.
+__Descansemos un poco, pero sólo un poco porque cae la noche.
 
 76
 
@@ -2309,29 +2281,29 @@ Jorge Harmodio Juárez
 
 El anciano busca a tientas la boca de la alforja, hunde el brazo y bucea entre
 las texturas hasta sentir el cuero de la bota.
---Pasad este vino. Es para la madre María.
---Vino para la madre María, sólo un poco porque cae la noche.
---Vino para la madre María, sólo un poco porque la noche.
---Vino para la madre María, sólo un poco por la noche.
+__Pasad este vino. Es para la madre María.
+__Vino para la madre María, sólo un poco porque cae la noche.
+__Vino para la madre María, sólo un poco porque la noche.
+__Vino para la madre María, sólo un poco por la noche.
 La madre María bebe con avidez. Una parvada de alondras se desprende de
 la piedra y huye en trinos al otro lado de la ladera. La bota regresa de mano en
 mano.
---¿Pero si son religiosas?
---Andas falto de astucia, Perfecto. Son carrancistas.
---¿Cómo lo sabe?
---Mírale las barbas a ese que se hace pasar por cura. Los sacerdotes peinan
+__¿Pero si son religiosas?
+__Andas falto de astucia, Perfecto. Son carrancistas.
+__¿Cómo lo sabe?
+__Mírale las barbas a ese que se hace pasar por cura. Los sacerdotes peinan
 barbas más cortas, a la usanza de Cristo. Esas barbas tan precipitadas no
 pueden ser de nadie más que un carrancista.
---¿Y si son carrancistas por qué andan así, tan desarmados?
---Esconden las armas bajo los hábitos. Hay que andarse con tiento.
---Vayamos echándoles bala desde aquí, que estamos a cubierto.
---Sosiega esas armas, Perfecto, no ande la niña entre ellos y vayas a
+__¿Y si son carrancistas por qué andan así, tan desarmados?
+__Esconden las armas bajo los hábitos. Hay que andarse con tiento.
+__Vayamos echándoles bala desde aquí, que estamos a cubierto.
+__Sosiega esas armas, Perfecto, no ande la niña entre ellos y vayas a
 hacerle daño.
---Déjeme nomás tirarle al rucio. Así averiguamos qué tan bien armados
+__Déjeme nomás tirarle al rucio. Así averiguamos qué tan bien armados
 vienen.
 El sargento no esperó respuesta. El disparo persistió en el aire y se fue
 haciendo lejos. Un brinco de vino brotó de los aparejos. El animal cayó al suelo.
---Hijas, arrodillaos, que vienen los gavilleros. Rezad La Magnífica.
+__Hijas, arrodillaos, que vienen los gavilleros. Rezad La Magnífica.
 
 77
 
@@ -2341,28 +2313,28 @@ Jorge Harmodio Juárez
 
 La hilera se deshizo. Las monjas se echaron al suelo. En menos que el aire
 el teniente Flores y el sargento Urbina les dieron alcance.
---Tened pieded de un anciano sacerdote y las hermanas de la Concepción.
+__Tened pieded de un anciano sacerdote y las hermanas de la Concepción.
 Piedad.
---¿Qué andan haciendo por estos caminos tan despoblados?
---Los carrancistas nos echaron del convento y saquearon la parroquia.
+__¿Qué andan haciendo por estos caminos tan despoblados?
+__Los carrancistas nos echaron del convento y saquearon la parroquia.
 Vamos a refugiarnos con las Carmelitas. No cargamos nada de valor con
 nosotros.
 Perfecto abrió los aparejos de un machetazo. Una cascada de queso y carne
 seca cayó al suelo.
---¿Y en ese costal de manta, qué trae?
---El cáliz y el pie de la custodia, nuestras únicas posesiones.
---¿No andará entre ustedes una tal Malena Arizmendi?
---Las hermanas de esta orden han renunciado a su nombre de pila al tomar
+__¿Y en ese costal de manta, qué trae?
+__El cáliz y el pie de la custodia, nuestras únicas posesiones.
+__¿No andará entre ustedes una tal Malena Arizmendi?
+__Las hermanas de esta orden han renunciado a su nombre de pila al tomar
 los hábitos. No puedo saberlo.
 Donaciano ordenó que formaran una hilera y se deshicieran del tocado.
 Envalentonada por el vino, la madre María protestó.
---Obedeced hermanas. Es lo mejor para todos.
+__Obedeced hermanas. Es lo mejor para todos.
 La sierra quedó en silencio. El viento dejó de silbar. Las alondras se tragaron
 sus trinos. Los ojos de las monjas transcurrieron por las dos siluetas, desorejada
 la una, ensombrecida por el mal del pinto la otra.
 El teniente Flores se paseaba frente a ellas. Sin romper el silencio sacó de la
 fila a las más viejas, que prorrumpieron en gemidos y pidieron el santo viático.
---No es el momento hermanas.
+__No es el momento hermanas.
 
 78
 
@@ -2372,27 +2344,27 @@ Jorge Harmodio Juárez
 
 Donaciano les ordenó que se acostaran bocabajo. Los lloriqueos tomaron
 fuerza.
---¡Sargento, calle a esas madres!
---¡O se callan o las paso por las armas a todas!
+__¡Sargento, calle a esas madres!
+__¡O se callan o las paso por las armas a todas!
 Los sollozos se ahogaron bocabajo. El ritual se repitió varias veces. Silencio.
 Paseo. Escrutinio. Dos o tres fuera de la fila. Bocabajo, las quiero bocabajo. Las
 manchas del mal del pinto se estiraron en un bostezo. El cura rezaba en voz alta
 La Magnífica.
---Que se calle el viejo.
+__Que se calle el viejo.
 El sargento lo echó al suelo a golpes de culata. Envalentonada por el vino, la
 madre María insultaba a los revolucionarios con vocablos impensables en una
 religiosa. Sólo cinco monjas quedaban en la fila.
---¿Alguna de ustedes se llama o se llamó Malena Arizmendi?
+__¿Alguna de ustedes se llama o se llamó Malena Arizmendi?
 Las monjas bajaron la mirada.
---Quiero saber si alguna de ustedes se llama Malena Arizmendi.
+__Quiero saber si alguna de ustedes se llama Malena Arizmendi.
 Nada.
---Me van a dispensar lo que les va a ocurrir, pero nos afligen horas de la
+__Me van a dispensar lo que les va a ocurrir, pero nos afligen horas de la
 guerra. Se van a levantar los hábitos y me van a mostrar las mamas.
---Con confianza madre, no le va a pasar nada, estamos entre cristianos ¿o
-no? --sin contener su entusiasmo, el sargento Urbina les mostró las vírgenes que
+__Con confianza madre, no le va a pasar nada, estamos entre cristianos ¿o
+no? __sin contener su entusiasmo, el sargento Urbina les mostró las vírgenes que
 tapizaban su sombrero. Volvieron los lloriqueos de las que estaban bocabajo. Las
 cinco monjas cayeron de rodillas.
---Mátenos primero y deshónrenos ya muertas.
+__Mátenos primero y deshónrenos ya muertas.
 La madre María amenazaba a los revolucionarios con el fuego eterno.
 
 79
@@ -2401,11 +2373,11 @@ La madre María amenazaba a los revolucionarios con el fuego eterno.
 
 Jorge Harmodio Juárez
 
---Pero si condenados ya estábamos desde endenantes madre --dijo Perfecto
+__Pero si condenados ya estábamos desde endenantes madre __dijo Perfecto
 y la levantó del suelo. Entre forcejeos se la llevó a los matorrales. Donaciano
 agarró al padre por las barbas y le puso el cañón de la pistola en la boca.
---O me enseñan las mamas o me quiebro al viejo.
---Hijas, obedeced.
+__O me enseñan las mamas o me quiebro al viejo.
+__Hijas, obedeced.
 Ahora las que estaban de pie también lloraban. Entre las que yacían
 bocabajo hubo algunas que no lograron contener la curiosidad y levantaron la
 cabeza para ver qué pasaba. Diez tetas colgaban a la intemperie. Donaciano
@@ -2437,24 +2409,24 @@ espejo con un solo reflejo: tú.
 Una nube de polvo se levantó por el desfiladero. Un tropel de caballos llegó
 entre gritos y sombrerazos. Se escuchó una orden. La nube de polvo se detuvo.
 El general Villa desmonta y observa a su alrededor.
---¿Usted me puede explicar qué es esto?
---Sí mi general. Detuve a estas religiosas porque se me figuró que entre
+__¿Usted me puede explicar qué es esto?
+__Sí mi general. Detuve a estas religiosas porque se me figuró que entre
 ellas podría estar la niña.
---¿Cuál niña?
---¡A qué mi general!
---¿Por qué no estaba usted con los demás, asaltando el tren?
---¿Cuál tren?
---Mire muchachito, le voy a enseñar lo que le pasa a los que se valen de la
+__¿Cuál niña?
+__¡A qué mi general!
+__¿Por qué no estaba usted con los demás, asaltando el tren?
+__¿Cuál tren?
+__Mire muchachito, le voy a enseñar lo que le pasa a los que se valen de la
 revolución para encuerar monjas.
 Villa disparó seis veces. Donaciano cayó al suelo.
---Y ustedes, ya tápense, que me están alebrestando a la tropa.
---Dios lo bendiga a usted y a su descendencia mi general.
+__Y ustedes, ya tápense, que me están alebrestando a la tropa.
+__Dios lo bendiga a usted y a su descendencia mi general.
 Los villistas desaparecieron. Las religiosas recompusieron la figura, formaron
 de nuevo una hilera y se alejaron. Nadie notó la ausencia de la madre María.
---Ya se fueron todos. Ya te dejaron. Ora vas a tener que ser mi soldadera.
+__Ya se fueron todos. Ya te dejaron. Ora vas a tener que ser mi soldadera.
 Entre los matorrales, bocabajo, con los hábitos a la altura de las nalgas y el
 peso del sargento Urbina sobre las espaldas, la madre María no respondió.
---Te digo que ya te dejaron. Párate y vámonos.
+__Te digo que ya te dejaron. Párate y vámonos.
 Silenciosa, la madre María se desangraba por el costado. Una bala perdida,
 quizá una bala del revólver de Francisco Villa, le había atravesado las costillas.
 
@@ -2502,7 +2474,7 @@ han desenredado una hebra de podredumbre de la madeja de aromas que flotan
 en la tarde. Huele a muerto, piensa Poblete, y ese simple balbuceo basta para
 propagar la voz de alarma. De un salto evita el embate atropellado de las
 camionetas para caer sin gracia entre los rosales.
---Ay cabrón --alcanza a exclamar. A lo lejos, las camionetas se pasan el
+__Ay cabrón __alcanza a exclamar. A lo lejos, las camionetas se pasan el
 siguiente alto con indiferencia.
 Reforma cobra vida. La tarde se afloja la corbata y se retira a casa a
 descansar. Los cines encienden sus carteleras, los tragafuegos mojan la antorcha
@@ -2552,20 +2524,20 @@ la tensión del gatillo: Sea usted bienvenida, Malena, sea usted al fin bienveni
 
 Jorge Harmodio Juárez
 
---¿Te imaginas si los de la prensa se enteraran?
--- Viejo líder sindical se enamora del cadáver de su prometida.
--- Pareja de ancianos se casan instantes antes de su deceso. Estamos
+__¿Te imaginas si los de la prensa se enteraran?
+__ Viejo líder sindical se enamora del cadáver de su prometida.
+__ Pareja de ancianos se casan instantes antes de su deceso. Estamos
 felices, nos vamos de luna de miel al Purgatorio.
--- Por medio de la presente queremos hacerlos partícipes de la unión
+__ Por medio de la presente queremos hacerlos partícipes de la unión
 matrimonial de nuestros hijos, Donanciano Sindicatos Flores, de 853 Años y
 Doñanciana Pasita de los Achaques (tres meses menor) que se llevará a cabo en
 la Iglesia del Último Suspiro, colonia Los Mortales. Después de la ceremonia
 religiosa y la extremaunción de la feliz pareja, agradeceremos su presencia en el
 Panteón Dolores, colonia La Senectud, para la recepción luctuosa.
---¿Tú venderías a tu abuela?
---No la vendieron. La familia no sabía nada, la estaban velando. El cheque
+__¿Tú venderías a tu abuela?
+__No la vendieron. La familia no sabía nada, la estaban velando. El cheque
 les cayó del cielo.
---Pero por un cheque de ese tamaño, ¿venderías a tu abuela?
+__Pero por un cheque de ese tamaño, ¿venderías a tu abuela?
 —Puede que sí.
 —¿Y si vamos a ver don Dona y y se lo proponemos?
 —El viejo no compra abuelas vivas.
@@ -2738,17 +2710,17 @@ cerca del cadáver toda la noche. Ah, y arréstenme a ese sargento.
 
 Jorge Harmodio Juárez
 
---¿Pero por qué, mi general?
---Si mañana a las seis de la mañana su teniente aún no se ha levantado, lo
+__¿Pero por qué, mi general?
+__Si mañana a las seis de la mañana su teniente aún no se ha levantado, lo
 paso por las armas a usted también.
---¿Y qué me va a dar si se levanta?
---Le voy a perdonar la vida. ¿No le basta?
---Prométame que si se mi teniente regresa me va a dejar viajar una noche
+__¿Y qué me va a dar si se levanta?
+__Le voy a perdonar la vida. ¿No le basta?
+__Prométame que si se mi teniente regresa me va a dejar viajar una noche
 en el vagón de sus soldaderas.
---Pancho Villa no tiene soldaderas.
---Pero si yo lo he visto refocilándose con ellas.
---Llévenselo.
---¡No se vaya, mi general, espere! Bueno, está bien, le dejo en paz a sus
+__Pancho Villa no tiene soldaderas.
+__Pero si yo lo he visto refocilándose con ellas.
+__Llévenselo.
+__¡No se vaya, mi general, espere! Bueno, está bien, le dejo en paz a sus
 soldaderas, pero aunque sea déjeme viajar en el vagón de las gallinas. ¡Mi
 general, no se vaya, espere! ¿Qué le cuesta, mi general?
 
@@ -2756,13 +2728,13 @@ Villa soñó esa noche que estaba en su celda de la cárcel de Tlatelolco
 tejiendo un sombrero. Sus dedos eran gordos y torpes, más hechos al plomo de
 las armas que a la palma de los sombreros. El espíritu de Francisco I. Madero
 llegó arrastrando una silla, se detuvo frente a la celda y preguntó:
---¿Aquí es el atardecer Francisco?
---No, hasta esta celda no llegan los atardeceres.
---¿Entonces para haces sombreros?
---Para tapar el sol cuando me escape.
---¿Te vas a escapar?
---Sí, muy pronto, y lo único que me voy a llevar va a ser este sombrero.
---¿Para qué te escapas Francisco?
+__¿Aquí es el atardecer Francisco?
+__No, hasta esta celda no llegan los atardeceres.
+__¿Entonces para haces sombreros?
+__Para tapar el sol cuando me escape.
+__¿Te vas a escapar?
+__Sí, muy pronto, y lo único que me voy a llevar va a ser este sombrero.
+__¿Para qué te escapas Francisco?
 
 91
 
@@ -2770,27 +2742,27 @@ llegó arrastrando una silla, se detuvo frente a la celda y preguntó:
 
 Jorge Harmodio Juárez
 
---Para vengarlo a usted, don Panchito, para que lo respeten estos jijos de la
+__Para vengarlo a usted, don Panchito, para que lo respeten estos jijos de la
 tiznada y le devuelvan la presidencia.
---Pero si tú me mataste Francisco, por eso estás en la cárcel. Tú me
+__Pero si tú me mataste Francisco, por eso estás en la cárcel. Tú me
 traicionaste, ya estoy muerto, soy sólo un espíritu que jala su silla de atardecer en
 atardecer, tal es mi ocupación. Los espíritus somos adictos al ocaso.
---No don Panchito, yo no lo traicioné, fue el hijo de la tiznada de Victoriano.
---Pero ya te he perdonado.
---Escúcheme don Panchito, yo no lo traicioné, se lo juro. Salga a la calle,
+__No don Panchito, yo no lo traicioné, fue el hijo de la tiznada de Victoriano.
+__Pero ya te he perdonado.
+__Escúcheme don Panchito, yo no lo traicioné, se lo juro. Salga a la calle,
 pregúntele a la gente. El que lo traicionó fue Victoriano.
---Ya no hay nada qué escuchar. Que pases buena noche Francisco. Y ya no
+__Ya no hay nada qué escuchar. Que pases buena noche Francisco. Y ya no
 mates, ni traiciones. Tampoco te mueras. Es muy aburrido de este lado.
---Pero don Panchito, si yo daría la vida por usted.
---No la des Francisco, no vale la pena. No te escapes. No pelees. No te
+__Pero don Panchito, si yo daría la vida por usted.
+__No la des Francisco, no vale la pena. No te escapes. No pelees. No te
 mueras. Sigue haciendo tus sombreros.
---Es que don Panchito, yo no lo traicioné, le juro que fue Victoriano y ahora
+__Es que don Panchito, yo no lo traicioné, le juro que fue Victoriano y ahora
 que salga de la cárcel voy a hacer un ejército muy grande para castigarlo, créame
-don Panchito --Villa lloraba, la paja con la que tejía el sombrero se humedecía.
+don Panchito __Villa lloraba, la paja con la que tejía el sombrero se humedecía.
 Madero se aleja por el pasillo, Villa le grita que él no necesita el perdón de nadie
 porque a nadie ha traicionado, pero el pasillo responde apenas con el eco gutural
 de unas patas de madera.
---¡Don Panchito, ya no arrastre esa silla, yo y mis dorados le vamos a
+__¡Don Panchito, ya no arrastre esa silla, yo y mis dorados le vamos a
 devolver la suya, la que tiene un águila dorada en la cabecera, don Panchito, no
 se muera, no se vaya!
 Cuando despertó eran las cinco y media de la mañana. Las sábanas
@@ -2802,14 +2774,14 @@ estaban mojadas. El Centauro del Norte se había hecho pipí en la cama.
 
 Jorge Harmodio Juárez
 
---¿Quién me cambió al muerto, quién?
---No sé, mi general.
---¿Pero no les ordené que no se movieran de aquí en toda la noche?
---No lo sé mi general, en verdad no lo sé, apenas hace un momentito que
+__¿Quién me cambió al muerto, quién?
+__No sé, mi general.
+__¿Pero no les ordené que no se movieran de aquí en toda la noche?
+__No lo sé mi general, en verdad no lo sé, apenas hace un momentito que
 estaba tal y como lo dejaron, ya hasta empezaba a podrirse, por eso nos
-arrimamos porquito hacia allá --una hilera de dorados desvelados temblaban
+arrimamos porquito hacia allá __una hilera de dorados desvelados temblaban
 frente la rabia epileptoide del Centauro.
---Trillito, traiga acá eso y léalo otra vez.
+__Trillito, traiga acá eso y léalo otra vez.
 Su secretario particular tomó al negro por la muñeca, se acercó el listón al
 monóculo y con voz quebradiza leyó los pormenores del
 
@@ -2977,9 +2949,9 @@ silueta, bigotes, sombrero, botas altas y sombrero, es el general Villa con la n
 roja y muchos mocos que se limpia con el dorso de la mano entre estornudo y
 estornudo, y los ojos lacrimosos de lágrimas que se evaporan abrasadas por la ira
 irracional de su mirada.
---Soy... soy... ¡aaaaaaaaaatchú!
---Jesús-- respondió el judío educadamente.
---Soy alérgico, soy alérgico, ¡me lleva la tiznada!-- sollozaba Villa y en
+__Soy... soy... ¡aaaaaaaaaatchú!
+__Jesús__ respondió el judío educadamente.
+__Soy alérgico, soy alérgico, ¡me lleva la tiznada!__ sollozaba Villa y en
 menos que el aire desenfundaba y descargaba su arma sobre lo primero que le
 pasó enfrente, es decir las campanas, es decir el judío y el reventar de las balas
 en las campanas cimbraba la carreta y contagiaba la noche de tintineos. El judío
@@ -2994,7 +2966,7 @@ Jorge Harmodio Juárez
 fin de estrellas que se desprendían del cielo en mil gotas de metal y melodía y le
 traían al cuerpo un bienestar desconocido al tiempo que se lo llenaban de
 agujeros.
---Sepúltenlo-- ordenó Villa, y se limpió los mocos con el dorso de la mano.
+__Sepúltenlo__ ordenó Villa, y se limpió los mocos con el dorso de la mano.
 Más tarde, cuando el rocío y el sueño le hubieran ya enfriado las reflexiones, el
 Centauro pensaría que mejor alérgico que muerto, y le pediría a sus mujeres que
 le bordaran pañuelos blancos para los mocos. Pero mira que es mala suerte
@@ -3022,27 +2994,27 @@ Jorge Harmodio Juárez
 
 ponemos una clínica o algo así, ándale flaco; no seas cabrón, ¿cuántas veces no
 te he cubierto yo cuando despiertas bien chaqueto?
---Déjese ahí, doctor.
---Ya llegó el Chocorrol con un bulto, te tengo que dejar. ¡Sí, chinga, sí te
+__Déjese ahí, doctor.
+__Ya llegó el Chocorrol con un bulto, te tengo que dejar. ¡Sí, chinga, sí te
 cubro mañana! Adiós.
---Si está ocupado regreso al rato, doctor.
---No, no estoy ocupado. Estaba hablando con Marzio.
---¿Cómo está la loquita?
---No está loca. Nada más está nerviosa.
---¿Pues qué le hicieron?
---No entendí bien. Mañana le preguntas a Marzio. ¿Y a este qué le pasó?
---Lo atropellaron.
---¿Otro negro?
---El segundo.
---¿Trae papeles?
---No.
---¿Entonces cómo lo intitulo?
---Pues así nomás, EL NEGRO SIN TÍTULO.
---No chingues Chocorrol. Todos los negros llevan título.
---Pues entonces póngale EL NEGRO BEISBOLISTA, porque traía una
+__Si está ocupado regreso al rato, doctor.
+__No, no estoy ocupado. Estaba hablando con Marzio.
+__¿Cómo está la loquita?
+__No está loca. Nada más está nerviosa.
+__¿Pues qué le hicieron?
+__No entendí bien. Mañana le preguntas a Marzio. ¿Y a este qué le pasó?
+__Lo atropellaron.
+__¿Otro negro?
+__El segundo.
+__¿Trae papeles?
+__No.
+__¿Entonces cómo lo intitulo?
+__Pues así nomás, EL NEGRO SIN TÍTULO.
+__No chingues Chocorrol. Todos los negros llevan título.
+__Pues entonces póngale EL NEGRO BEISBOLISTA, porque traía una
 gorra.
---¿Y dónde quedó?
---En la ambulancia. Se la voy a regalar a mi hijo. Él le va a los Diablos Rojos.
+__¿Y dónde quedó?
+__En la ambulancia. Se la voy a regalar a mi hijo. Él le va a los Diablos Rojos.
 Para que se la ponga cuando lo llevo al estadio.
 
 100
@@ -3057,9 +3029,9 @@ Nombre: Sin.
 Apellido: Título.
 Edad: aproximadamente 60 años.
 Nacionalidad: desconocida.
---¿No será cubano?
---No creo. Tiene más tipo de veracruzano.
---Pues entones póngale.
+__¿No será cubano?
+__No creo. Tiene más tipo de veracruzano.
+__Pues entones póngale.
 Nacionalidad: desconocida veracruzano.
 Complexión: indistinta.
 Pelo: entrecano.
@@ -3351,14 +3323,14 @@ Parral lo trajo, las
 
 Instrucciones para engañar a un desorejado
 
---Olvide su nombre, olvide su historia, olvídese de usted, olvídelo todo y
+__Olvide su nombre, olvide su historia, olvídese de usted, olvídelo todo y
 ponga mucha atención, le voy a contar su pasado: usted nació en una hacienda.
---Sí.
---Usted era muy rica.
---Sí.
---Hija única.
---Sí.
---Huérfana de madre.
+__Sí.
+__Usted era muy rica.
+__Sí.
+__Hija única.
+__Sí.
+__Huérfana de madre.
 
 110
 
@@ -3366,31 +3338,31 @@ ponga mucha atención, le voy a contar su pasado: usted nació en una hacienda.
 
 Jorge Harmodio Juárez
 
---Sí.
---Que murió de parto.
---Sí
---En el parto de usted, quiero decir.
---Sí, sí.
---Por lo tanto usted fue criada por su padre.
---Sí.
---Que era un médico muy rico.
---Sí.
---Español.
---Sí.
---De España, quiero decir. Porque allá nació.
---Sí.
---Muy malo él.
---¿Mal médico?
---No, no, malo de maldad, mala persona, hombre malo.
---¡Pero conmigo no, conmigo no fue tan malo!
---¿Qué dice?
---No, nada.
---¿Qué fue lo primero que le pedí? ¡Olvídese de usted! No importa cómo
+__Sí.
+__Que murió de parto.
+__Sí
+__En el parto de usted, quiero decir.
+__Sí, sí.
+__Por lo tanto usted fue criada por su padre.
+__Sí.
+__Que era un médico muy rico.
+__Sí.
+__Español.
+__Sí.
+__De España, quiero decir. Porque allá nació.
+__Sí.
+__Muy malo él.
+__¿Mal médico?
+__No, no, malo de maldad, mala persona, hombre malo.
+__¡Pero conmigo no, conmigo no fue tan malo!
+__¿Qué dice?
+__No, nada.
+__¿Qué fue lo primero que le pedí? ¡Olvídese de usted! No importa cómo
 haya sido su verdadero padre, no piense en él. Hoy por la noche será usted otra
 persona.
---Está bien, está bien. Mi padre era muy malo. El peor de todos.
---Y él era sólo un peón de la hacienda, el más humilde de todos.
---¿Quién, mi padre?
+__Está bien, está bien. Mi padre era muy malo. El peor de todos.
+__Y él era sólo un peón de la hacienda, el más humilde de todos.
+__¿Quién, mi padre?
 
 111
 
@@ -3398,28 +3370,28 @@ persona.
 
 Jorge Harmodio Juárez
 
---¡No, carajo, su enamorado!
---Ah.
---Él se encargaba de ordeñar las vacas.
---Exacto.
---Y usted lo iba a ver al establo porque usted, no lo olvide, estaba muy
+__¡No, carajo, su enamorado!
+__Ah.
+__Él se encargaba de ordeñar las vacas.
+__Exacto.
+__Y usted lo iba a ver al establo porque usted, no lo olvide, estaba muy
 enamorada.
---¡Sí!
---Hasta que un día su padre los sorprendió dándose un beso y
---No fue sólo el beso, también me quitó la ropa y me toco las
---¡La novela no es suya, carajo! Guárdese sus fantasías y escúcheme. Hoy
+__¡Sí!
+__Hasta que un día su padre los sorprendió dándose un beso y
+__No fue sólo el beso, también me quitó la ropa y me toco las
+__¡La novela no es suya, carajo! Guárdese sus fantasías y escúcheme. Hoy
 por la noche va a estar usted frente a un lunático que piensa que la revolución se
 hizo nada más para encontrarla.
---¿A mí?
---Sí, a usted... bueno, no, no a usted precisamente, a una tal Malena que
+__¿A mí?
+__Sí, a usted... bueno, no, no a usted precisamente, a una tal Malena que
 huyó o se murió o nunca existió, y hoy por la noche usted va a ser esa Malena,
 por lo menos para él, pero si usted no es convincente él va a descubrir el engaño,
 cosa que a mí me importaría un pepino pero a mi general Villa le interesa mucho
 por razones que desconozco, así que le ruego coopere si no quiere que nos
 pasen juntos por las armas, ya ve lo delicado que es mi general Villa. ¿Me lo
 promete?
---Sí.
---Entonces sigamos.
+__Sí.
+__Entonces sigamos.
 
 112
 
@@ -3679,16 +3651,16 @@ Jorge Harmodio Juárez
 encendidas entre presagios silenciosos que los miraban desde los tendederos. Ya
 que lejos de mí vas a estar, guarda, niña, un gentil pensamiento al que un día te
 quiso contar un cuento.
---¿A dónde vamos?
---A un burdel.
---¿Ahí está ella?
---Sí.
---¿Ahí se termina?
---¿Qué?
---Todo.
---¿Qué es todo?
---La revolución, quiero decir.
---Ah, sí.
+__¿A dónde vamos?
+__A un burdel.
+__¿Ahí está ella?
+__Sí.
+__¿Ahí se termina?
+__¿Qué?
+__Todo.
+__¿Qué es todo?
+__La revolución, quiero decir.
+__Ah, sí.
 Los nudillos tocan. La puerta se abre. Un chorro de luz umbraliforme
 enmarca de pronto las siluetas de los revolucionarios, que se quitan los
 sombreros de frente al burdel, de espaldas a la noche. La puerta se cierra
@@ -3717,19 +3689,19 @@ palabras sobre la banqueta, cierra los ojos, y se dispone a morir muerta de frí
 de curiosidad o de ganas de contar el incontable encuentro de Malena y
 Donaciano. Y así se queda, hasta perder la conciencia y el sentido.
 
---No te mueras.
---¿Eh?
---Por favor no te mueras. No todavía.
---¿Dónde estoy?
---En Parral, en julio, en 1923, en el número 19 de la calle Gabino Barreda.
---¿Qué hago aquí?
---Te estabas asfixiando. Yo te he recogido, te he dado respiración de ficción
+__No te mueras.
+__¿Eh?
+__Por favor no te mueras. No todavía.
+__¿Dónde estoy?
+__En Parral, en julio, en 1923, en el número 19 de la calle Gabino Barreda.
+__¿Qué hago aquí?
+__Te estabas asfixiando. Yo te he recogido, te he dado respiración de ficción
 a boca, te he puesto fomentos de narrativa. Y te he despertado como a las
 princesas de los cuentos de hadas, con un beso.
---¿Quién eres tú? ¿Acaso un príncipe?
---No. Sólo un personaje.
---¿Un personaje... por qué entonces no te recuerdo?
---Porque hace mucho que no he sido contado. No salía desde el primer
+__¿Quién eres tú? ¿Acaso un príncipe?
+__No. Sólo un personaje.
+__¿Un personaje... por qué entonces no te recuerdo?
+__Porque hace mucho que no he sido contado. No salía desde el primer
 capítulo.
 
 122
@@ -3738,28 +3710,28 @@ capítulo.
 
 Jorge Harmodio Juárez
 
---¿Cómo te llamas?
---Nabor Nolasco. El carrancista.
---¿Y por qué no mejor me has dejado morir?
---Porque aún no es tiempo. No antes de que yo mate a Francisco Villa.
---¿Lo vas a matar?
---Sí. Yo y todos esos que duermen ahí amontonados, junto a las carabinas.
---¿Cuándo?
---En cuanto pase por aquí enfrente. Éste su camino de regreso a Canutillo.
+__¿Cómo te llamas?
+__Nabor Nolasco. El carrancista.
+__¿Y por qué no mejor me has dejado morir?
+__Porque aún no es tiempo. No antes de que yo mate a Francisco Villa.
+__¿Lo vas a matar?
+__Sí. Yo y todos esos que duermen ahí amontonados, junto a las carabinas.
+__¿Cuándo?
+__En cuanto pase por aquí enfrente. Éste su camino de regreso a Canutillo.
 Pero descansa, duerme, mañana va a ser un día muy agitado.
 
---Pídeme un deseo.
---¿Cómo?
---Que me pidas un deseo. Lo que tú quieras.
---¿Un deseo?
---Sí. Ayer tú me salvaste la vida. Hoy me toca concederte un deseo.
---¿Lo que yo quiera?
---Sí.
---¿En serio, lo que yo quiera?
---Sí.
---Ya sé. Quiero casarme con la mujer más hermosa de todo Parral. Mañana
+__Pídeme un deseo.
+__¿Cómo?
+__Que me pidas un deseo. Lo que tú quieras.
+__¿Un deseo?
+__Sí. Ayer tú me salvaste la vida. Hoy me toca concederte un deseo.
+__¿Lo que yo quiera?
+__Sí.
+__¿En serio, lo que yo quiera?
+__Sí.
+__Ya sé. Quiero casarme con la mujer más hermosa de todo Parral. Mañana
 mismo, después de matar a Pancho Villa.
---Concedido.
+__Concedido.
 
 123
 
@@ -3984,12 +3956,12 @@ Precapítulo cuarto
 Fui becado en circunstancias muy extrañas. Al día siguiente de mi renuncia
 al Sahara Bank recibí una llamada inesperada. Era una licenciada. Me felicitaba
 por haber sido favorecido con una beca.
---Pero licenciada, yo no he solicitado beca alguna. Debe haber un error.
---¿Está usted escribiendo una novela, sí o no?
---Sí, bueno, no sé, mire, lo que pasa es que cuando tenía veinte años...
---¿Cuál es su fecha de nacimiento?
+__Pero licenciada, yo no he solicitado beca alguna. Debe haber un error.
+__¿Está usted escribiendo una novela, sí o no?
+__Sí, bueno, no sé, mire, lo que pasa es que cuando tenía veinte años...
+__¿Cuál es su fecha de nacimiento?
 Le dije mi fecha de nacimiento.
---No hay duda, es usted. Felicidades. Puede pasar a firmar sus papeles de
+__No hay duda, es usted. Felicidades. Puede pasar a firmar sus papeles de
 tal a tal hora en la avenida Etcétera esquina con Etcétera.
 Mis sospechas empeoraron cuando conocí las circunstancias en que la beca
 me había sido concedida. Para muestra, basta un catálogo.
@@ -4199,20 +4171,20 @@ concurrencia a la espera de la señal convenida.
 Abatidos, Malena y Buentello regresan a la incomodidad de su mesa, a
 encarar el embarazoso silencio que se entromete en la conversación aún antes de
 empezarla. En eso, un mesero:
---La dama les envía sus saludos y esta botella.
---¿Cuál dama?
---La de allá.
---¡Mira Puerquito, whisky escocés!
---¿Quién es ella?
---No sé, pero esto es whisky escocés, y de los mejores.
+__La dama les envía sus saludos y esta botella.
+__¿Cuál dama?
+__La de allá.
+__¡Mira Puerquito, whisky escocés!
+__¿Quién es ella?
+__No sé, pero esto es whisky escocés, y de los mejores.
 Nacha Ceniceros sonríe y la distinción de su encanto los cautiva. Salud.
 ¿Quién es? ¿De dónde la conoces? Te está coqueteando ¿verdad? La señora
 Ceniceros, dueña de su espacio, se levanta de la mesa, se acerca, toma a
 Malenita de la mano acallando sus sospechas y con la cortesía de quien está a
 punto de la señal convenida, pregunta:
---¿Me concedería esta pieza?
+__¿Me concedería esta pieza?
 Ella duda. Mira a Eugenio. Escocés auténtico.
---Con gusto.
+__Con gusto.
 Las dos mujeres se detienen al centro de la pista. Ella desmaya el brazo sobre
 su pecho. Ella desliza el antebrazo por su cintura. Ella toma su mano y la levanta
 
@@ -4234,10 +4206,10 @@ círculos rotos
 buscando sus extremos
 hacia el cielo
 
---Oye Carra.
---Dime, Feliluí.
---¿Qué esa no’é la Nacha Cenicero, la de tus revi’tas?
---¡Coñó mi helmano, que obstinació! Mejor ponte a la trompeta, que ya viene
+__Oye Carra.
+__Dime, Feliluí.
+__¿Qué esa no’é la Nacha Cenicero, la de tus revi’tas?
+__¡Coñó mi helmano, que obstinació! Mejor ponte a la trompeta, que ya viene
 tu acolde.
 
 Ay de nosotros
@@ -4260,19 +4232,19 @@ sienten quebrarse las costillas ni cierran los ojos ni se cubren el rostro ni se
 lamentan in extremis de lo difícil que será explicarle a mamá tantas manchas de
 sangre, aunque también parecieran desmayarse cuando el metal de las trompetas
 los somete con una andanada de acordes perezpradianos.
---¿Y Eugenio?
---Por él no te preocupes, estará bien.
---¿Y mi bolsa?
---Ya la tienen los muchachos.
---¿A dónde me lleva?
---Ven por aquí, acompáñame.
---Yo no voy a ningún lado sin mi Puerquito.
+__¿Y Eugenio?
+__Por él no te preocupes, estará bien.
+__¿Y mi bolsa?
+__Ya la tienen los muchachos.
+__¿A dónde me lleva?
+__Ven por aquí, acompáñame.
+__Yo no voy a ningún lado sin mi Puerquito.
 Un judicial la sujeta por los brazos, otro la amordaza para acallar un grito
 que estaba a punto de pedir auxilio y así sometida la llevan hasta un rincón
 discreto en donde la señora Ceniceros agita una ampolleta, carga a contraluz una
 jeringa e inyecta cinco dóciles mililitros cúbicos de ketamina en el tejido muscular
 de Malena, que se desvanece en brazos de sus captores.
---Créeme, lamento hacer las cosas por las malas --dice sacudiéndose la
+__Créeme, lamento hacer las cosas por las malas __dice sacudiéndose la
 diamantina del vestido.
 Laguna: omisión o hueco en que se dejó de poner algo o en que algo ha
 desaparecido por la acción del tiempo o por otra causa.
@@ -4685,7 +4657,7 @@ mismo morbo infantil con que ahora busca algún atisbo de la cicatriz en la gale
 de fotos oficiales, tomadas todas desde un minucioso perfil izquierdo. Mire don
 Dona, le presento a la doctora Marzio, dijo Nacha Ceniceros desde la
 empuñadura de la silla de ruedas.
---¿A quién?
+__¿A quién?
 
 153
 
@@ -4693,31 +4665,31 @@ empuñadura de la silla de ruedas.
 
 Jorge Harmodio Juárez
 
---A la doctora Marzio.
---¿Para qué?
---Quiero que la conozca, le va a hacer unos estudios.
---¿A mí... estudios... para qué?
---Para que no se nos vaya a enfermar.
---Pero si yo nunca me enfermo.
---Pues para que se enferme menos.
+__A la doctora Marzio.
+__¿Para qué?
+__Quiero que la conozca, le va a hacer unos estudios.
+__¿A mí... estudios... para qué?
+__Para que no se nos vaya a enfermar.
+__Pero si yo nunca me enfermo.
+__Pues para que se enferme menos.
 Donaciano miró a tu madre como miran los perros a los extraños. No era el
 de las fotos, tampoco el de las cananas. Vestía de riguroso traje negro, camisa
 blanca, corbata gris, no traía lentes oscuros ni puro, pero sí un estrepitoso gorro
 de dormir azul, única prenda sobreviviente del naufragio matutino de su piyama.
---A ver, don Dona, présteme su gorro, yo se lo guardo.
---¡Que no, vieja necia!
---¡Qué modales son esos! ¿Qué va a pensar la doctora?
---¿Cuál doctora?
---La doctora Marzio, la que le va a hacer unos estudios.
---¿Estudios, para qué me vienen a hacer estudios?
---Ya le dije, don Dona, para que no se enferme.
---Doctora, hágala entrar en razón. No deje que me quite mi gorro. Sin mi
+__A ver, don Dona, présteme su gorro, yo se lo guardo.
+__¡Que no, vieja necia!
+__¡Qué modales son esos! ¿Qué va a pensar la doctora?
+__¿Cuál doctora?
+__La doctora Marzio, la que le va a hacer unos estudios.
+__¿Estudios, para qué me vienen a hacer estudios?
+__Ya le dije, don Dona, para que no se enferme.
+__Doctora, hágala entrar en razón. No deje que me quite mi gorro. Sin mi
 gorro no puedo hablar con el Hombre Luz.
 El líder del sindicato más grande de Latinoamérica deslizó la silla de ruedas
 hacia los ventanales para darle la espalda a las mujeres y picarse la nariz sin que
 lo vieran.
---Don Dona, no haga cochinadas delante de la doctora.
---¿Usted es doctora?
+__Don Dona, no haga cochinadas delante de la doctora.
+__¿Usted es doctora?
 
 154
 
@@ -4725,19 +4697,19 @@ lo vieran.
 
 Jorge Harmodio Juárez
 
---Sí.
---Mire. Allá al fondo. ¿Lo ve?
---¿Qué?
--- Al Hombre Luz.
---¿Dónde?
---Ahí, detrás del mausoleo.
---Ah, sí.
---Él me ha dicho que usted no es una doctora, usted es un hada que me
+__Sí.
+__Mire. Allá al fondo. ¿Lo ve?
+__¿Qué?
+__ Al Hombre Luz.
+__¿Dónde?
+__Ahí, detrás del mausoleo.
+__Ah, sí.
+__Él me ha dicho que usted no es una doctora, usted es un hada que me
 ayudará a despertarla. No está muerta, sólo está dormida.
---Ya me lo voy a llevar. Está muy incoherente.
---Hada, no deje que me lleven. ¿Verdad que me va a ayudar? ¡No está
+__Ya me lo voy a llevar. Está muy incoherente.
+__Hada, no deje que me lleven. ¿Verdad que me va a ayudar? ¡No está
 muerta, sólo está dormida! Hable con el Hombre Luz, él se lo explicará todo.
---Discúlpelo, doctora, es que durmió muy mal, por eso está tan incoherente.
+__Discúlpelo, doctora, es que durmió muy mal, por eso está tan incoherente.
 
 Dios creó a los ancianos en la azotea de los Laboratorios Frontera Para la
 Sangre y la Orina. Como ya va siendo tradición en las creaciones divinas, le tomó
@@ -4900,10 +4872,10 @@ donde se atrincheran las amistades para las confidencias. La semana pasada era
 el hombre más ofendido de la colonia Roma a causa de mi novela, hoy me
 pregunta cuántas de azúcar desbordado por la sonrisa. ¿Qué te pasa, por qué tan
 contento? No me lo vas a creer (más sonrisa), ocurrió un milagro.
---Déjame adivinar. La competencia te dobló el sueldo.
---Frío.
---Encontraste trabajo en Edimburgo y te vas a vivir con Malena.
---Frío.
+__Déjame adivinar. La competencia te dobló el sueldo.
+__Frío.
+__Encontraste trabajo en Edimburgo y te vas a vivir con Malena.
+__Frío.
 
 160
 
@@ -4911,30 +4883,30 @@ contento? No me lo vas a creer (más sonrisa), ocurrió un milagro.
 
 Jorge Harmodio Juárez
 
--- Se te apareció el President Madero asking for a sheep y te corrieron del
+__ Se te apareció el President Madero asking for a sheep y te corrieron del
 banco.
---Congelándose. Piensa, piensa, ¿qué es lo mejor que le pudo haber pasado
+__Congelándose. Piensa, piensa, ¿qué es lo mejor que le pudo haber pasado
 a alguien como yo?
---Se murió tu mamá.
---No mames.
---Me rindo.
---Recibí una llamada de un club. Quieren que los dirija.
---¿Un club de qué?
---Un club de fútbol de la tercera división. El Ixmiquilpan. Quieren que sea su
+__Se murió tu mamá.
+__No mames.
+__Me rindo.
+__Recibí una llamada de un club. Quieren que los dirija.
+__¿Un club de qué?
+__Un club de fútbol de la tercera división. El Ixmiquilpan. Quieren que sea su
 director técnico.
 Su voz de azúcar se diluye en el café con leche de la tarde. Un cosquilleo
 baja por mi antebrazo derecho y queda pendiente de mis dedos. Eso ya lo
 escribimos, piensan mis dedos mientras dan vueltas a la cuchara que endulza la
 trama.
---¿Te das cuenta?
---Sí, es como un sueño.
---Digo que si te das cuenta de que eso yo ya lo había escrito.
---¿Qué?
---Lo del Ixmiquilpan.
---¿Cuándo?
---Está en el Capítulo Número Uno Bis de mi novela, esa que tanto les cagó a
+__¿Te das cuenta?
+__Sí, es como un sueño.
+__Digo que si te das cuenta de que eso yo ya lo había escrito.
+__¿Qué?
+__Lo del Ixmiquilpan.
+__¿Cuándo?
+__Está en el Capítulo Número Uno Bis de mi novela, esa que tanto les cagó a
 ti y a Malena.
---Ah, tu novela. Bueno, en realidad quien la leyó fue ella, a mí sólo me
+__Ah, tu novela. Bueno, en realidad quien la leyó fue ella, a mí sólo me
 subrayó lo que quería que te reclamara. Creo que exageró un poco. Un día de
 
 161
@@ -5743,10 +5715,10 @@ contestadora y en efecto la contestadora va y lo dice: El que en esta venta habi
 anda por otras soledades buscando las aventuras con ánimo deliberado.
 Pluguiere a los altos cielos que la vuesa merced dejase su mensaje al escuchar el
 silbato. Piiiiiip.
---Contéstame, no te hagas pendejo. Sé que estás ahí. Pasó algo muy grave.
+__Contéstame, no te hagas pendejo. Sé que estás ahí. Pasó algo muy grave.
 ¡Contésta chingá! Le pasó algo a Malena, la...
---¿Bueno?
---Llámale al Dr. Marzio. Está muy mal. Secuestraron a Malena.
+__¿Bueno?
+__Llámale al Dr. Marzio. Está muy mal. Secuestraron a Malena.
 Reblandecimiento desvanece y vanifica suaves como un pan mis manos
 rotas en migajos y tasajos de incredulibidad resbaladiza deslizante y aceitosa
 demando a mi fuerza por avendono migratoria y lejos de ambos brazos sin
@@ -5790,7 +5762,7 @@ por eso por hallarse falto de una de ellas que se me nublaron las mis luces de
 inteligencia, cierra interrogación remota (?) que exige se me aclare qué clase de
 Dios hay allá arriba que obedece lo que escribo ipsofácticamente en cuento yo
 tambor lo escribo.
---¿Y cuánto piden de rescate?
+__¿Y cuánto piden de rescate?
 
 189
 
@@ -5798,17 +5770,17 @@ tambor lo escribo.
 
 Jorge Harmodio Juárez
 
---No lo sé. Todo se está manejando con mucho sigilo.
---¿Y cómo está el Dr. Marzio?
---Pues mal, como querías que estuviera. Deshecho.
---Pobre, la tragedia lo persigue. Justo después de la muerte de Sanjuana.
---¿Cuál Sanjuana?
---Su esposa, la cubana.
---¿De quién hablas?
---La enfermera que acaba de abortar por culpa de Malena.
---No sé a quién te refieres.
---Pobre Doctor Arizmendi. Pero quién le manda volverse tan pedo.
---Güey, échate un sueño y llévatela leve. Te nos estás desconectando.
+__No lo sé. Todo se está manejando con mucho sigilo.
+__¿Y cómo está el Dr. Marzio?
+__Pues mal, como querías que estuviera. Deshecho.
+__Pobre, la tragedia lo persigue. Justo después de la muerte de Sanjuana.
+__¿Cuál Sanjuana?
+__Su esposa, la cubana.
+__¿De quién hablas?
+__La enfermera que acaba de abortar por culpa de Malena.
+__No sé a quién te refieres.
+__Pobre Doctor Arizmendi. Pero quién le manda volverse tan pedo.
+__Güey, échate un sueño y llévatela leve. Te nos estás desconectando.
 
 No habrán sido doce días pero sí doce minutos en los que Malena sumergió
 su rostro en adjetivos que prosperan; no habrá habido establo pero las vigas del
