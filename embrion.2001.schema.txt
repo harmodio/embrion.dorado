@@ -1,0 +1,77 @@
+*------------------------Clave
+R=revolución
+S=1970
+D=2000
+H=Hoy
+
+*------------------------Dramatis Personae
+R
+teniente Donaciano Flores
+sargento Perfecto Urbina
+Pancho Villa
+Nabor Nolasco
+la niña Malena
+Doctor Arizmendi
+La cocinera
+Doña Mercedes
+Madero
+
+S
+
+D
+Jaimecito Buentello
+Malena Marzio
+Mayelín, enfermera cubana
+Doctor Marzio
+María Máxima Meza Marañón
+
+*------------------------Genealogía
+-->Revolución
+Doctor Arizmendi --- Doña Mercedes
+                  |
+		  |
+	       Malena 
+
+Doctor Arizmendi --- La cocinera -------------- ?
+                  |			|
+		  |			|
+	       Juanita		    Donaciano
+
+--> 1996
+María Máxima
+|
+mamá
+|
+Jaimecito Buentello
+
+Malena-R
+|
+?---doctor Marzio
+|
+Malena Marzio
+
+
+
+------------------------Capítulo Número 1 Bis
+/?-Tambor subterráneo/
+/1915-Moco en la batalla de Celaya/
+/2000-Tu madre es gordita, morena y/
+/2000-Mi mamá me mima/
+/2018-¿me la lees camino a Qro?/
+/1915-Nabor Nolasco y las gallinas/
+/1996-De aquí salimos con el embrión en la mano o no salimos/
+/1996-Estadio del Atlante/
+/2018-Torres de Satélite:propofol/
+/1915-La fiesta de las balas/
+/1996-Retumbaron los tambores en el quirófano: ritmos del África: cumpleaños de pentopol/
+/1996-Puedo meter los goles más tristes esta noche/
+/2018-Tepozotlán y la maestra de embriología/
+/1915-La luna se hunde en el año de 1915 y se detiene sobre Celaya/
+/1996-Éste es el elenco de tu última y fatal consecuencia: apagón, aborto/
+/1996-Dibújame un cordero/
+/2018-Células sexuales haploides/
+/1915-La mano crustáceo en el aquario de formol/
+/1915-1996:aborto-1996:estadio/
+
+
+
