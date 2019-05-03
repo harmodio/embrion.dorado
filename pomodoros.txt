@@ -35,4 +35,7 @@ mie/1/may/19
 T,T+,T,t
 
 jue/2/may/19
-T,T
+T,T||
+T,T,T
+
+FIN
